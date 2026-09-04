@@ -1,0 +1,1127 @@
+#Patient Identifier	Study	BCR Status	Neoplasm Histologic Type Name	Diagnosis Age	Sex	Overall Survival (Months)	Overall Survival Status	Karnofsky Performance Score
+#Identifier to uniquely specify a patient.	Study.	BCR status.	Text term for the structural pattern of cancer cells used to define a microscopic diagnosis.	Age at which a condition or disease was first diagnosed.	Sex	Overall survival in months since initial diagonosis.	Overall patient survival status.	Score from the Karnofsky Performance status scale, representing the functional capabilities of a person.
+#STRING	STRING	STRING	STRING	NUMBER	STRING	NUMBER	STRING	NUMBER
+#1	1	1	1	1	1	1	1	1
+PATIENT_ID	STUDY	BCR_STATUS	HISTOLOGICAL_DIAGNOSIS	AGE	SEX	OS_MONTHS	OS_STATUS	KARNOFSKY_PERFORMANCE_SCORE
+TCGA-CS-4938	Brain Lower Grade Glioma	IGC	astrocytoma	31.0	Female	4.7	0:LIVING	90.0
+TCGA-CS-4941	Brain Lower Grade Glioma	IGC	astrocytoma	67.0	Male	7.7	1:DECEASED	90.0
+TCGA-CS-4942	Brain Lower Grade Glioma	IGC	astrocytoma	44.0	Female	43.9	1:DECEASED	90.0
+TCGA-CS-4943	Brain Lower Grade Glioma	IGC	astrocytoma	37.0	Male	18.1	0:LIVING	50.0
+TCGA-CS-4944	Brain Lower Grade Glioma	IGC	astrocytoma	50.0	Male	10.6	0:LIVING	90.0
+TCGA-CS-5390	Brain Lower Grade Glioma	IGC	oligodendroglioma	47.0	Female	64.6	0:LIVING	100.0
+TCGA-CS-5393	Brain Lower Grade Glioma	IGC	astrocytoma	39.0	Male	40.1	0:LIVING	100.0
+TCGA-CS-5394	Brain Lower Grade Glioma	IGC	astrocytoma	40.0	Male	0.1	0:LIVING	
+TCGA-CS-5395	Brain Lower Grade Glioma	IGC	oligodendroglioma	43.0	Male	21.0	1:DECEASED	90.0
+TCGA-CS-5396	Brain Lower Grade Glioma	IGC	oligodendroglioma	53.0	Female	10.0	0:LIVING	90.0
+TCGA-CS-5397	Brain Lower Grade Glioma	IGC	astrocytoma	54.0	Female	6.4	1:DECEASED	80.0
+TCGA-CS-6186	Brain Lower Grade Glioma	IGC	oligoastrocytoma	58.0	Male	17.7	1:DECEASED	90.0
+TCGA-CS-6188	Brain Lower Grade Glioma	IGC	astrocytoma	48.0	Male	23.8	0:LIVING	90.0
+TCGA-CS-6290	Brain Lower Grade Glioma	IGC	astrocytoma	31.0	Male	17.9	0:LIVING	90.0
+TCGA-CS-6665	Brain Lower Grade Glioma	IGC	astrocytoma	51.0	Female	12.4	0:LIVING	90.0
+TCGA-CS-6666	Brain Lower Grade Glioma	IGC	astrocytoma	22.0	Male	8.5	0:LIVING	90.0
+TCGA-CS-6667	Brain Lower Grade Glioma	IGC	astrocytoma	39.0	Female	7.6	0:LIVING	90.0
+TCGA-CS-6668	Brain Lower Grade Glioma	IGC	oligodendroglioma	57.0	Female	8.0	0:LIVING	90.0
+TCGA-CS-6669	Brain Lower Grade Glioma	IGC	oligodendroglioma	26.0	Female	7.4	0:LIVING	90.0
+TCGA-CS-6670	Brain Lower Grade Glioma	IGC	oligodendroglioma	43.0	Male	6.6	0:LIVING	
+TCGA-DB-5270	Brain Lower Grade Glioma	IGC	oligoastrocytoma	38.0	Female	97.8	0:LIVING	
+TCGA-DB-5273	Brain Lower Grade Glioma	IGC	astrocytoma	33.0	Male	81.9	0:LIVING	
+TCGA-DB-5274	Brain Lower Grade Glioma	IGC	oligoastrocytoma	37.0	Female	75.2	0:LIVING	80.0
+TCGA-DB-5275	Brain Lower Grade Glioma	IGC	oligoastrocytoma	36.0	Male	47.9	0:LIVING	
+TCGA-DB-5276	Brain Lower Grade Glioma	IGC	oligoastrocytoma	32.0	Male	72.9	0:LIVING	
+TCGA-DB-5277	Brain Lower Grade Glioma	IGC	astrocytoma	34.0	Male	50.8	1:DECEASED	
+TCGA-DB-5278	Brain Lower Grade Glioma	IGC	oligodendroglioma	17.0	Male	50.1	0:LIVING	
+TCGA-DB-5279	Brain Lower Grade Glioma	IGC	oligodendroglioma	59.0	Male	44.5	0:LIVING	
+TCGA-DB-5280	Brain Lower Grade Glioma	IGC	oligoastrocytoma	43.0	Male	36.5	0:LIVING	
+TCGA-DB-5281	Brain Lower Grade Glioma	IGC	oligoastrocytoma	61.0	Male	78.2	0:LIVING	
+TCGA-DB-A4X9	Brain Lower Grade Glioma	IGC	oligoastrocytoma	33.0	Female	30.1	0:LIVING	
+TCGA-DB-A4XA	Brain Lower Grade Glioma	IGC	oligoastrocytoma	30.0	Male	10.3	0:LIVING	
+TCGA-DB-A4XB	Brain Lower Grade Glioma	IGC	astrocytoma	38.0	Male	12.7	0:LIVING	
+TCGA-DB-A4XC	Brain Lower Grade Glioma	IGC	oligoastrocytoma	26.0	Male	27.6	0:LIVING	
+TCGA-DB-A4XD	Brain Lower Grade Glioma	IGC	astrocytoma	32.0	Male	27.0	0:LIVING	
+TCGA-DB-A4XE	Brain Lower Grade Glioma	IGC	oligoastrocytoma	27.0	Female	18.8	0:LIVING	90.0
+TCGA-DB-A4XF	Brain Lower Grade Glioma	IGC	astrocytoma	41.0	Female	18.4	0:LIVING	
+TCGA-DB-A4XG	Brain Lower Grade Glioma	IGC	oligodendroglioma	34.0	Male	72.9	0:LIVING	
+TCGA-DB-A4XH	Brain Lower Grade Glioma	IGC	oligoastrocytoma	53.0	Female	12.6	0:LIVING	
+TCGA-DB-A64L	Brain Lower Grade Glioma	IGC	oligodendroglioma	67.0	Female	11.0	0:LIVING	70.0
+TCGA-DB-A64O	Brain Lower Grade Glioma	IGC	oligoastrocytoma	59.0	Male	18.8	0:LIVING	
+TCGA-DB-A64P	Brain Lower Grade Glioma	IGC	oligodendroglioma	40.0	Male	16.8	0:LIVING	
+TCGA-DB-A64Q	Brain Lower Grade Glioma	IGC	oligoastrocytoma	31.0	Female	6.0	0:LIVING	90.0
+TCGA-DB-A64R	Brain Lower Grade Glioma	IGC	oligodendroglioma	24.0	Female	16.1	0:LIVING	90.0
+TCGA-DB-A64S	Brain Lower Grade Glioma	IGC	oligoastrocytoma	20.0	Male	15.4	0:LIVING	100.0
+TCGA-DB-A64U	Brain Lower Grade Glioma	IGC	oligoastrocytoma	38.0	Female	27.8	0:LIVING	90.0
+TCGA-DB-A64V	Brain Lower Grade Glioma	IGC	oligodendroglioma	54.0	Male	14.7	0:LIVING	90.0
+TCGA-DB-A64W	Brain Lower Grade Glioma	IGC	oligoastrocytoma	65.0	Female	13.6	0:LIVING	90.0
+TCGA-DB-A64X	Brain Lower Grade Glioma	IGC	astrocytoma	56.0	Female	10.9	0:LIVING	90.0
+TCGA-DB-A75K	Brain Lower Grade Glioma	IGC	oligoastrocytoma	55.0	Female	7.4	0:LIVING	
+TCGA-DB-A75L	Brain Lower Grade Glioma	IGC	astrocytoma	36.0	Female	6.4	0:LIVING	90.0
+TCGA-DB-A75M	Brain Lower Grade Glioma	IGC	astrocytoma	47.0	Male	10.3	0:LIVING	
+TCGA-DB-A75O	Brain Lower Grade Glioma	IGC	astrocytoma	29.0	Male	30.7	0:LIVING	90.0
+TCGA-DB-A75P	Brain Lower Grade Glioma	IGC	astrocytoma	25.0	Female	3.8	0:LIVING	
+TCGA-DH-5140	Brain Lower Grade Glioma	IGC	oligoastrocytoma	38.0	Female	19.9	1:DECEASED	90.0
+TCGA-DH-5141	Brain Lower Grade Glioma	IGC	oligodendroglioma	32.0	Male	31.8	0:LIVING	
+TCGA-DH-5142	Brain Lower Grade Glioma	IGC	astrocytoma	29.0	Male	30.3	0:LIVING	90.0
+TCGA-DH-5143	Brain Lower Grade Glioma	IGC	oligoastrocytoma	30.0	Male	14.4	0:LIVING	80.0
+TCGA-DH-5144	Brain Lower Grade Glioma	IGC	oligodendroglioma	56.0	Female	8.0	0:LIVING	100.0
+TCGA-DH-A669	Brain Lower Grade Glioma	IGC	oligodendroglioma	70.0	Male	30.2	1:DECEASED	
+TCGA-DH-A66B	Brain Lower Grade Glioma	IGC	astrocytoma	52.0	Male	42.0	0:LIVING	90.0
+TCGA-DH-A66D	Brain Lower Grade Glioma	IGC	astrocytoma	43.0	Female	15.7	0:LIVING	80.0
+TCGA-DH-A66F	Brain Lower Grade Glioma	IGC	oligodendroglioma	49.0	Male	17.2	0:LIVING	90.0
+TCGA-DH-A66G	Brain Lower Grade Glioma	IGC	oligodendroglioma	49.0	Female	3.8	0:LIVING	80.0
+TCGA-DH-A7UR	Brain Lower Grade Glioma	IGC	oligodendroglioma	59.0	Female	54.2	0:LIVING	90.0
+TCGA-DH-A7US	Brain Lower Grade Glioma	IGC	oligodendroglioma	50.0	Male	10.2	0:LIVING	
+TCGA-DH-A7UT	Brain Lower Grade Glioma	IGC	astrocytoma	30.0	Male	6.6	0:LIVING	
+TCGA-DH-A7UU	Brain Lower Grade Glioma	IGC	astrocytoma	43.0	Male	3.4	0:LIVING	90.0
+TCGA-DH-A7UV	Brain Lower Grade Glioma	IGC	astrocytoma	49.0	Male	6.2	0:LIVING	90.0
+TCGA-DU-5847	Brain Lower Grade Glioma	IGC	astrocytoma	34.0	Female	18.0	0:LIVING	
+TCGA-DU-5849	Brain Lower Grade Glioma	IGC	oligodendroglioma	48.0	Male	14.6	0:LIVING	
+TCGA-DU-5851	Brain Lower Grade Glioma	IGC	oligoastrocytoma	40.0	Female	17.4	0:LIVING	90.0
+TCGA-DU-5852	Brain Lower Grade Glioma	IGC	oligoastrocytoma	61.0	Female	6.7	1:DECEASED	80.0
+TCGA-DU-5853	Brain Lower Grade Glioma	IGC	oligoastrocytoma	29.0	Male	13.4	0:LIVING	100.0
+TCGA-DU-5854	Brain Lower Grade Glioma	IGC	astrocytoma	57.0	Female	8.4	0:LIVING	90.0
+TCGA-DU-5855	Brain Lower Grade Glioma	IGC	oligoastrocytoma	49.0	Female	6.8	0:LIVING	100.0
+TCGA-DU-5870	Brain Lower Grade Glioma	IGC	oligodendroglioma	34.0	Female	182.2	0:LIVING	70.0
+TCGA-DU-5871	Brain Lower Grade Glioma	IGC	oligoastrocytoma	37.0	Female	18.9	0:LIVING	100.0
+TCGA-DU-5872	Brain Lower Grade Glioma	IGC	oligoastrocytoma	43.0	Female	17.5	0:LIVING	
+TCGA-DU-5874	Brain Lower Grade Glioma	IGC	oligodendroglioma	62.0	Female	15.1	0:LIVING	100.0
+TCGA-DU-6392	Brain Lower Grade Glioma	IGC	astrocytoma	35.0	Female	211.0	0:LIVING	
+TCGA-DU-6393	Brain Lower Grade Glioma	IGC	oligodendroglioma	66.0	Male	52.1	1:DECEASED	
+TCGA-DU-6394	Brain Lower Grade Glioma	IGC	oligodendroglioma	53.0	Male	22.4	1:DECEASED	
+TCGA-DU-6395	Brain Lower Grade Glioma	IGC	oligoastrocytoma	31.0	Male	49.0	1:DECEASED	
+TCGA-DU-6396	Brain Lower Grade Glioma	IGC	oligoastrocytoma	31.0	Female	75.1	1:DECEASED	90.0
+TCGA-DU-6397	Brain Lower Grade Glioma	IGC	oligodendroglioma	45.0	Male	46.0	1:DECEASED	
+TCGA-DU-6399	Brain Lower Grade Glioma	IGC	oligodendroglioma	54.0	Male	65.7	1:DECEASED	
+TCGA-DU-6400	Brain Lower Grade Glioma	IGC	oligodendroglioma	66.0	Female	1.2	1:DECEASED	
+TCGA-DU-6401	Brain Lower Grade Glioma	IGC	oligodendroglioma	31.0	Female	87.4	1:DECEASED	
+TCGA-DU-6402	Brain Lower Grade Glioma	IGC	astrocytoma	52.0	Male	7.0	1:DECEASED	
+TCGA-DU-6403	Brain Lower Grade Glioma	IGC	oligoastrocytoma	60.0	Female	11.6	1:DECEASED	90.0
+TCGA-DU-6404	Brain Lower Grade Glioma	IGC	oligodendroglioma	24.0	Female	133.7	1:DECEASED	100.0
+TCGA-DU-6405	Brain Lower Grade Glioma	IGC	astrocytoma	51.0	Female	19.9	1:DECEASED	90.0
+TCGA-DU-6406	Brain Lower Grade Glioma	IGC	oligoastrocytoma	59.0	Female	16.8	1:DECEASED	
+TCGA-DU-6407	Brain Lower Grade Glioma	IGC	oligodendroglioma	35.0	Female	94.5	1:DECEASED	90.0
+TCGA-DU-6408	Brain Lower Grade Glioma	IGC	oligodendroglioma	23.0	Female	114.0	1:DECEASED	90.0
+TCGA-DU-6410	Brain Lower Grade Glioma	IGC	oligodendroglioma	56.0	Male	8.0	0:LIVING	50.0
+TCGA-DU-6542	Brain Lower Grade Glioma	IGC	oligoastrocytoma	25.0	Male	7.7	0:LIVING	
+TCGA-DU-7006	Brain Lower Grade Glioma	IGC	astrocytoma	60.0	Female	11.5	1:DECEASED	
+TCGA-DU-7007	Brain Lower Grade Glioma	IGC	astrocytoma	33.0	Male	62.9	1:DECEASED	
+TCGA-DU-7008	Brain Lower Grade Glioma	IGC	oligodendroglioma	41.0	Female	156.1	0:LIVING	
+TCGA-DU-7009	Brain Lower Grade Glioma	IGC	oligodendroglioma	32.0	Female	138.2	0:LIVING	
+TCGA-DU-7010	Brain Lower Grade Glioma	IGC	astrocytoma	58.0	Female	15.0	1:DECEASED	
+TCGA-DU-7011	Brain Lower Grade Glioma	IGC	oligoastrocytoma	25.0	Male	105.1	1:DECEASED	80.0
+TCGA-DU-7012	Brain Lower Grade Glioma	IGC	astrocytoma	74.0	Female	6.5	1:DECEASED	
+TCGA-DU-7013	Brain Lower Grade Glioma	IGC	astrocytoma	59.0	Male	8.8	1:DECEASED	80.0
+TCGA-DU-7014	Brain Lower Grade Glioma	IGC	oligodendroglioma	59.0	Male	117.3	1:DECEASED	100.0
+TCGA-DU-7015	Brain Lower Grade Glioma	IGC	oligodendroglioma	41.0	Female	90.7	0:LIVING	90.0
+TCGA-DU-7018	Brain Lower Grade Glioma	IGC	oligodendroglioma	57.0	Female	30.7	1:DECEASED	90.0
+TCGA-DU-7019	Brain Lower Grade Glioma	IGC	oligoastrocytoma	39.0	Male	26.3	0:LIVING	100.0
+TCGA-DU-7290	Brain Lower Grade Glioma	IGC	astrocytoma	45.0	Female	10.3	1:DECEASED	
+TCGA-DU-7292	Brain Lower Grade Glioma	IGC	astrocytoma	69.0	Male	8.0	1:DECEASED	
+TCGA-DU-7294	Brain Lower Grade Glioma	IGC	oligodendroglioma	53.0	Female	94.3	0:LIVING	100.0
+TCGA-DU-7298	Brain Lower Grade Glioma	IGC	astrocytoma	38.0	Female	18.9	1:DECEASED	80.0
+TCGA-DU-7299	Brain Lower Grade Glioma	IGC	astrocytoma	33.0	Male	44.0	1:DECEASED	90.0
+TCGA-DU-7300	Brain Lower Grade Glioma	IGC	oligodendroglioma	53.0	Female	62.0	1:DECEASED	90.0
+TCGA-DU-7301	Brain Lower Grade Glioma	IGC	oligodendroglioma	53.0	Male	25.9	1:DECEASED	100.0
+TCGA-DU-7302	Brain Lower Grade Glioma	IGC	oligodendroglioma	48.0	Female	60.3	0:LIVING	90.0
+TCGA-DU-7304	Brain Lower Grade Glioma	IGC	oligoastrocytoma	43.0	Male	23.3	1:DECEASED	80.0
+TCGA-DU-7306	Brain Lower Grade Glioma	IGC	oligoastrocytoma	67.0	Male	42.0	0:LIVING	100.0
+TCGA-DU-7309	Brain Lower Grade Glioma	IGC	oligodendroglioma	41.0	Female	2.8	0:LIVING	90.0
+TCGA-DU-8158	Brain Lower Grade Glioma	IGC	astrocytoma	57.0	Female	5.1	1:DECEASED	80.0
+TCGA-DU-8161	Brain Lower Grade Glioma	IGC	oligoastrocytoma	63.0	Female	23.7	1:DECEASED	70.0
+TCGA-DU-8162	Brain Lower Grade Glioma	IGC	oligoastrocytoma	61.0	Female	14.6	1:DECEASED	80.0
+TCGA-DU-8163	Brain Lower Grade Glioma	IGC	oligoastrocytoma	29.0	Male	20.7	0:LIVING	90.0
+TCGA-DU-8164	Brain Lower Grade Glioma	IGC	oligodendroglioma	51.0	Male	21.4	0:LIVING	
+TCGA-DU-8165	Brain Lower Grade Glioma	IGC	oligodendroglioma	60.0	Female	19.1	0:LIVING	90.0
+TCGA-DU-8166	Brain Lower Grade Glioma	IGC	oligoastrocytoma	29.0	Female	17.0	0:LIVING	
+TCGA-DU-8167	Brain Lower Grade Glioma	IGC	oligoastrocytoma	69.0	Female	15.5	0:LIVING	100.0
+TCGA-DU-8168	Brain Lower Grade Glioma	IGC	oligodendroglioma	55.0	Female	14.2	0:LIVING	70.0
+TCGA-DU-A5TP	Brain Lower Grade Glioma	IGC	astrocytoma	33.0	Male	14.2	0:LIVING	70.0
+TCGA-DU-A5TR	Brain Lower Grade Glioma	IGC	oligoastrocytoma	51.0	Male	12.6	0:LIVING	90.0
+TCGA-DU-A5TS	Brain Lower Grade Glioma	IGC	oligodendroglioma	42.0	Male	15.1	0:LIVING	100.0
+TCGA-DU-A5TT	Brain Lower Grade Glioma	IGC	oligodendroglioma	70.0	Male	5.0	0:LIVING	
+TCGA-DU-A5TU	Brain Lower Grade Glioma	IGC	astrocytoma	62.0	Female	3.6	0:LIVING	50.0
+TCGA-DU-A5TW	Brain Lower Grade Glioma	IGC	astrocytoma	33.0	Female	5.7	0:LIVING	100.0
+TCGA-DU-A5TY	Brain Lower Grade Glioma	IGC	astrocytoma	46.0	Female	12.2	0:LIVING	
+TCGA-DU-A6S2	Brain Lower Grade Glioma	IGC	oligodendroglioma	37.0	Female	8.6	0:LIVING	70.0
+TCGA-DU-A6S3	Brain Lower Grade Glioma	IGC	oligodendroglioma	60.0	Male	2.7	0:LIVING	
+TCGA-DU-A6S6	Brain Lower Grade Glioma	IGC	oligoastrocytoma	35.0	Female	77.9	0:LIVING	90.0
+TCGA-DU-A6S7	Brain Lower Grade Glioma	IGC	astrocytoma	27.0	Female	7.2	0:LIVING	90.0
+TCGA-DU-A6S8	Brain Lower Grade Glioma	IGC	oligodendroglioma	74.0	Female	6.0	0:LIVING	90.0
+TCGA-DU-A76K	Brain Lower Grade Glioma	IGC	oligodendroglioma	87.0	Male	11.4	1:DECEASED	
+TCGA-DU-A76L	Brain Lower Grade Glioma	IGC	oligodendroglioma	54.0	Male	26.7	1:DECEASED	
+TCGA-DU-A76O	Brain Lower Grade Glioma	IGC	astrocytoma	30.0	Male	7.1	0:LIVING	
+TCGA-DU-A76R	Brain Lower Grade Glioma	IGC	oligodendroglioma	51.0	Male	21.3	1:DECEASED	50.0
+TCGA-DU-A7T6	Brain Lower Grade Glioma	IGC	oligodendroglioma	73.0	Female	18.0	1:DECEASED	60.0
+TCGA-DU-A7T8	Brain Lower Grade Glioma	IGC	oligoastrocytoma	35.0	Male	124.4	0:LIVING	100.0
+TCGA-DU-A7TA	Brain Lower Grade Glioma	IGC	oligodendroglioma	32.0	Male	77.8	0:LIVING	80.0
+TCGA-DU-A7TB	Brain Lower Grade Glioma	IGC	oligodendroglioma	56.0	Male	42.3	0:LIVING	100.0
+TCGA-DU-A7TC	Brain Lower Grade Glioma	IGC	astrocytoma	32.0	Male	23.5	0:LIVING	90.0
+TCGA-DU-A7TD	Brain Lower Grade Glioma	IGC	oligoastrocytoma	52.0	Male	7.5	1:DECEASED	60.0
+TCGA-DU-A7TG	Brain Lower Grade Glioma	IGC	oligodendroglioma	40.0	Male	44.4	1:DECEASED	70.0
+TCGA-DU-A7TI	Brain Lower Grade Glioma	IGC						
+TCGA-DU-A7TJ	Brain Lower Grade Glioma	IGC	astrocytoma	55.0	Male	0.6	0:LIVING	
+TCGA-E1-5302	Brain Lower Grade Glioma	IGC	astrocytoma	41.0	Male	50.1	1:DECEASED	100.0
+TCGA-E1-5303	Brain Lower Grade Glioma	IGC	astrocytoma	38.0	Male	67.4	1:DECEASED	80.0
+TCGA-E1-5304	Brain Lower Grade Glioma	IGC	astrocytoma	42.0	Male	41.1	1:DECEASED	90.0
+TCGA-E1-5305	Brain Lower Grade Glioma	IGC	astrocytoma	34.0	Male	79.9	1:DECEASED	100.0
+TCGA-E1-5307	Brain Lower Grade Glioma	IGC	astrocytoma	62.0	Female	57.9	1:DECEASED	80.0
+TCGA-E1-5311	Brain Lower Grade Glioma	IGC	oligodendroglioma	31.0	Male	134.2	1:DECEASED	100.0
+TCGA-E1-5318	Brain Lower Grade Glioma	IGC	oligodendroglioma	42.0	Female	78.2	1:DECEASED	100.0
+TCGA-E1-5319	Brain Lower Grade Glioma	IGC	oligodendroglioma	48.0	Female	95.5	1:DECEASED	100.0
+TCGA-E1-5322	Brain Lower Grade Glioma	IGC	oligoastrocytoma	38.0	Female	130.7	1:DECEASED	90.0
+TCGA-E1-A7YD	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YE	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YH	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YI	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YJ	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YK	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YL	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YM	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YN	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YO	Brain Lower Grade Glioma	IGC	oligodendroglioma	45.0	Male	75.0	1:DECEASED	100.0
+TCGA-E1-A7YQ	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YS	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YU	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7YV	Brain Lower Grade Glioma	IGC	oligoastrocytoma	26.0	Female	32.4	1:DECEASED	90.0
+TCGA-E1-A7YW	Brain Lower Grade Glioma	IGC	oligoastrocytoma	28.0	Male	36.8	1:DECEASED	90.0
+TCGA-E1-A7YY	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7Z2	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7Z3	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7Z4	Brain Lower Grade Glioma	IGC						
+TCGA-E1-A7Z6	Brain Lower Grade Glioma	IGC	astrocytoma	41.0	Female	32.3	1:DECEASED	90.0
+TCGA-EZ-7264	Brain Lower Grade Glioma	IGC	oligodendroglioma	47.0	Female	14.3	0:LIVING	
+TCGA-F6-A8O3	Brain Lower Grade Glioma	IGC	oligodendroglioma	34.0	Male	0.2	0:LIVING	
+TCGA-F6-A8O4	Brain Lower Grade Glioma	IGC	astrocytoma	44.0	Male	0.2	0:LIVING	
+TCGA-FG-5962	Brain Lower Grade Glioma	IGC	oligodendroglioma	54.0	Male	47.7	0:LIVING	
+TCGA-FG-5963	Brain Lower Grade Glioma	IGC	astrocytoma	23.0	Male	25.5	1:DECEASED	90.0
+TCGA-FG-5964	Brain Lower Grade Glioma	IGC	oligodendroglioma	62.0	Male	34.3	0:LIVING	
+TCGA-FG-5965	Brain Lower Grade Glioma	IGC	oligoastrocytoma	39.0	Female	36.8	1:DECEASED	90.0
+TCGA-FG-6688	Brain Lower Grade Glioma	IGC	astrocytoma	59.0	Female	18.8	0:LIVING	80.0
+TCGA-FG-6689	Brain Lower Grade Glioma	IGC	astrocytoma	30.0	Male	14.9	0:LIVING	70.0
+TCGA-FG-6690	Brain Lower Grade Glioma	IGC	oligodendroglioma	70.0	Male	25.0	0:LIVING	90.0
+TCGA-FG-6691	Brain Lower Grade Glioma	IGC	astrocytoma	23.0	Female	24.0	0:LIVING	100.0
+TCGA-FG-6692	Brain Lower Grade Glioma	IGC	oligodendroglioma	63.0	Male	18.4	1:DECEASED	
+TCGA-FG-7634	Brain Lower Grade Glioma	IGC	oligodendroglioma	28.0	Male	15.3	0:LIVING	
+TCGA-FG-7636	Brain Lower Grade Glioma	IGC	astrocytoma	48.0	Male	17.9	0:LIVING	90.0
+TCGA-FG-7637	Brain Lower Grade Glioma	IGC	oligoastrocytoma	49.0	Male	40.1	0:LIVING	
+TCGA-FG-7638	Brain Lower Grade Glioma	IGC	oligodendroglioma	31.0	Female	22.5	0:LIVING	100.0
+TCGA-FG-7641	Brain Lower Grade Glioma	IGC	oligodendroglioma	31.0	Male	20.6	0:LIVING	
+TCGA-FG-7643	Brain Lower Grade Glioma	IGC	oligoastrocytoma	49.0	Female	20.1	0:LIVING	
+TCGA-FG-8181	Brain Lower Grade Glioma	IGC	oligoastrocytoma	23.0	Male	12.9	0:LIVING	90.0
+TCGA-FG-8182	Brain Lower Grade Glioma	IGC	oligodendroglioma	35.0	Male	13.7	0:LIVING	
+TCGA-FG-8185	Brain Lower Grade Glioma	IGC	astrocytoma	37.0	Male	14.2	0:LIVING	90.0
+TCGA-FG-8186	Brain Lower Grade Glioma	IGC	oligoastrocytoma	42.0	Female	16.0	0:LIVING	70.0
+TCGA-FG-8187	Brain Lower Grade Glioma	IGC	oligoastrocytoma	31.0	Male	20.1	0:LIVING	90.0
+TCGA-FG-8188	Brain Lower Grade Glioma	IGC	oligoastrocytoma	41.0	Male	14.9	0:LIVING	90.0
+TCGA-FG-8189	Brain Lower Grade Glioma	IGC	oligodendroglioma	33.0	Female	11.9	0:LIVING	70.0
+TCGA-FG-8191	Brain Lower Grade Glioma	IGC	oligodendroglioma	30.0	Male	15.5	0:LIVING	
+TCGA-FG-A4MT	Brain Lower Grade Glioma	IGC	oligodendroglioma	27.0	Female	38.2	0:LIVING	100.0
+TCGA-FG-A4MU	Brain Lower Grade Glioma	IGC	oligoastrocytoma	58.0	Male	0.6	0:LIVING	
+TCGA-FG-A4MW	Brain Lower Grade Glioma	IGC	oligoastrocytoma	63.0	Male	5.3	0:LIVING	80.0
+TCGA-FG-A4MX	Brain Lower Grade Glioma	IGC	astrocytoma	47.0	Male	18.7	0:LIVING	100.0
+TCGA-FG-A4MY	Brain Lower Grade Glioma	IGC	oligoastrocytoma	44.0	Female	9.7	0:LIVING	
+TCGA-FG-A60J	Brain Lower Grade Glioma	IGC	oligoastrocytoma	47.0	Female	7.0	0:LIVING	90.0
+TCGA-FG-A60K	Brain Lower Grade Glioma	IGC	oligoastrocytoma	34.0	Female	6.6	0:LIVING	
+TCGA-FG-A60L	Brain Lower Grade Glioma	IGC	astrocytoma	34.0	Female	7.0	0:LIVING	100.0
+TCGA-FG-A6IZ	Brain Lower Grade Glioma	IGC	oligodendroglioma	60.0	Male	4.2	0:LIVING	
+TCGA-FG-A6J1	Brain Lower Grade Glioma	IGC	oligodendroglioma	44.0	Female	4.1	0:LIVING	70.0
+TCGA-FG-A6J3	Brain Lower Grade Glioma	IGC	astrocytoma	52.0	Female	10.6	0:LIVING	90.0
+TCGA-FG-A70Y	Brain Lower Grade Glioma	IGC	oligodendroglioma	20.0	Female	28.5	0:LIVING	
+TCGA-FG-A70Z	Brain Lower Grade Glioma	IGC	oligoastrocytoma	53.0	Female	10.8	0:LIVING	
+TCGA-FG-A710	Brain Lower Grade Glioma	IGC	oligodendroglioma	50.0	Female	22.9	0:LIVING	
+TCGA-FG-A711	Brain Lower Grade Glioma	IGC	oligodendroglioma	33.0	Female	43.7	0:LIVING	90.0
+TCGA-FG-A713	Brain Lower Grade Glioma	IGC	oligoastrocytoma	74.0	Female	5.2	0:LIVING	60.0
+TCGA-FG-A87N	Brain Lower Grade Glioma	IGC	astrocytoma	37.0	Female	7.4	0:LIVING	
+TCGA-FG-A87Q	Brain Lower Grade Glioma	IGC	astrocytoma	61.0	Female	5.7	0:LIVING	80.0
+TCGA-FN-7833	Brain Lower Grade Glioma	IGC	oligoastrocytoma	25.0	Male	0.1	0:LIVING	
+TCGA-HT-7467	Brain Lower Grade Glioma	IGC	oligodendroglioma	54.0	Male	0.1	0:LIVING	
+TCGA-HT-7468	Brain Lower Grade Glioma	IGC	oligodendroglioma	30.0	Male	6.7	0:LIVING	80.0
+TCGA-HT-7469	Brain Lower Grade Glioma	IGC	oligodendroglioma	30.0	Male	11.5	1:DECEASED	
+TCGA-HT-7470	Brain Lower Grade Glioma	IGC	oligodendroglioma	37.0	Male	8.8	0:LIVING	90.0
+TCGA-HT-7471	Brain Lower Grade Glioma	IGC	oligodendroglioma	37.0	Female	0.1	0:LIVING	
+TCGA-HT-7472	Brain Lower Grade Glioma	IGC	oligodendroglioma	38.0	Male	0.0	0:LIVING	
+TCGA-HT-7473	Brain Lower Grade Glioma	IGC	oligoastrocytoma	28.0	Male	16.5	0:LIVING	
+TCGA-HT-7474	Brain Lower Grade Glioma	IGC	oligoastrocytoma	52.0	Male	3.7	0:LIVING	
+TCGA-HT-7475	Brain Lower Grade Glioma	IGC	oligoastrocytoma	67.0	Male	17.4	0:LIVING	70.0
+TCGA-HT-7476	Brain Lower Grade Glioma	IGC	astrocytoma	26.0	Male	6.5	0:LIVING	
+TCGA-HT-7477	Brain Lower Grade Glioma	IGC	astrocytoma	62.0	Male	24.2	0:LIVING	80.0
+TCGA-HT-7478	Brain Lower Grade Glioma	IGC	astrocytoma	36.0	Male	6.4	0:LIVING	
+TCGA-HT-7479	Brain Lower Grade Glioma	IGC	astrocytoma	44.0	Male	7.1	0:LIVING	
+TCGA-HT-7480	Brain Lower Grade Glioma	IGC	oligodendroglioma	33.0	Male	75.1	0:LIVING	
+TCGA-HT-7481	Brain Lower Grade Glioma	IGC	oligodendroglioma	39.0	Male	59.1	0:LIVING	
+TCGA-HT-7482	Brain Lower Grade Glioma	IGC	oligoastrocytoma	18.0	Female	60.0	0:LIVING	
+TCGA-HT-7483	Brain Lower Grade Glioma	IGC	oligoastrocytoma	14.0	Male	154.1	0:LIVING	
+TCGA-HT-7485	Brain Lower Grade Glioma	IGC	astrocytoma	42.0	Male	4.0	0:LIVING	100.0
+TCGA-HT-7601	Brain Lower Grade Glioma	IGC	astrocytoma	30.0	Female	5.0	0:LIVING	
+TCGA-HT-7602	Brain Lower Grade Glioma	IGC	oligodendroglioma	21.0	Male	29.8	0:LIVING	
+TCGA-HT-7603	Brain Lower Grade Glioma	IGC	oligodendroglioma	29.0	Male	23.2	0:LIVING	
+TCGA-HT-7604	Brain Lower Grade Glioma	IGC	astrocytoma	50.0	Male	107.9	0:LIVING	
+TCGA-HT-7605	Brain Lower Grade Glioma	IGC	oligodendroglioma	38.0	Male	4.6	0:LIVING	
+TCGA-HT-7606	Brain Lower Grade Glioma	IGC	astrocytoma	30.0	Female	17.3	0:LIVING	
+TCGA-HT-7607	Brain Lower Grade Glioma	IGC	astrocytoma	61.0	Female	3.2	1:DECEASED	70.0
+TCGA-HT-7608	Brain Lower Grade Glioma	IGC	oligoastrocytoma	61.0	Male	22.0	0:LIVING	
+TCGA-HT-7609	Brain Lower Grade Glioma	IGC	oligoastrocytoma	34.0	Male	46.0	0:LIVING	90.0
+TCGA-HT-7610	Brain Lower Grade Glioma	IGC	oligoastrocytoma	25.0	Female	56.1	0:LIVING	
+TCGA-HT-7611	Brain Lower Grade Glioma	IGC	oligoastrocytoma	36.0	Male	57.6	0:LIVING	90.0
+TCGA-HT-7616	Brain Lower Grade Glioma	IGC	oligodendroglioma	75.0	Male	0.2	1:DECEASED	
+TCGA-HT-7620	Brain Lower Grade Glioma	IGC	oligodendroglioma	40.0	Male	14.3	0:LIVING	
+TCGA-HT-7676	Brain Lower Grade Glioma	IGC	oligodendroglioma	26.0	Male	0.2	0:LIVING	
+TCGA-HT-7677	Brain Lower Grade Glioma	IGC	oligodendroglioma	53.0	Male	16.2	0:LIVING	
+TCGA-HT-7680	Brain Lower Grade Glioma	IGC	astrocytoma	32.0	Female	0.8	0:LIVING	
+TCGA-HT-7681	Brain Lower Grade Glioma	IGC	oligoastrocytoma	29.0	Female	44.6	0:LIVING	
+TCGA-HT-7684	Brain Lower Grade Glioma	IGC	oligoastrocytoma	58.0	Male	6.0	0:LIVING	
+TCGA-HT-7686	Brain Lower Grade Glioma	IGC	astrocytoma	29.0	Female	42.7	0:LIVING	
+TCGA-HT-7687	Brain Lower Grade Glioma	IGC	oligodendroglioma	74.0	Male	0.1	0:LIVING	
+TCGA-HT-7688	Brain Lower Grade Glioma	IGC	oligodendroglioma	59.0	Male	31.7	0:LIVING	
+TCGA-HT-7689	Brain Lower Grade Glioma	IGC	oligodendroglioma	58.0	Female	14.9	0:LIVING	60.0
+TCGA-HT-7690	Brain Lower Grade Glioma	IGC	oligoastrocytoma	29.0	Male	0.1	0:LIVING	
+TCGA-HT-7691	Brain Lower Grade Glioma	IGC	astrocytoma	31.0	Female	0.1	0:LIVING	
+TCGA-HT-7692	Brain Lower Grade Glioma	IGC	oligoastrocytoma	43.0	Male	3.0	0:LIVING	100.0
+TCGA-HT-7693	Brain Lower Grade Glioma	IGC	oligodendroglioma	51.0	Female	17.5	0:LIVING	90.0
+TCGA-HT-7694	Brain Lower Grade Glioma	IGC	oligodendroglioma	60.0	Male	6.9	0:LIVING	90.0
+TCGA-HT-7695	Brain Lower Grade Glioma	IGC	oligodendroglioma	29.0	Female	14.5	0:LIVING	
+TCGA-HT-7854	Brain Lower Grade Glioma	IGC	astrocytoma	62.0	Male	39.5	0:LIVING	100.0
+TCGA-HT-7855	Brain Lower Grade Glioma	IGC	astrocytoma	39.0	Male	19.2	0:LIVING	
+TCGA-HT-7856	Brain Lower Grade Glioma	IGC	oligodendroglioma	35.0	Male	39.1	0:LIVING	
+TCGA-HT-7857	Brain Lower Grade Glioma	IGC	astrocytoma	24.0	Female	0.2	0:LIVING	
+TCGA-HT-7858	Brain Lower Grade Glioma	IGC	astrocytoma	28.0	Male	50.6	0:LIVING	
+TCGA-HT-7860	Brain Lower Grade Glioma	IGC	astrocytoma	60.0	Female	0.5	0:LIVING	
+TCGA-HT-7873	Brain Lower Grade Glioma	IGC	oligoastrocytoma	29.0	Male	23.6	0:LIVING	
+TCGA-HT-7874	Brain Lower Grade Glioma	IGC	oligodendroglioma	41.0	Female	37.1	0:LIVING	
+TCGA-HT-7875	Brain Lower Grade Glioma	IGC	oligodendroglioma	56.0	Male	0.3	0:LIVING	80.0
+TCGA-HT-7877	Brain Lower Grade Glioma	IGC	oligodendroglioma	20.0	Female	0.1	0:LIVING	
+TCGA-HT-7879	Brain Lower Grade Glioma	IGC	oligoastrocytoma	31.0	Male	3.7	0:LIVING	
+TCGA-HT-7880	Brain Lower Grade Glioma	IGC	oligoastrocytoma	30.0	Male	5.3	0:LIVING	
+TCGA-HT-7881	Brain Lower Grade Glioma	IGC	oligodendroglioma	38.0	Male	2.9	0:LIVING	
+TCGA-HT-7882	Brain Lower Grade Glioma	IGC	oligodendroglioma	66.0	Male	3.7	1:DECEASED	
+TCGA-HT-7884	Brain Lower Grade Glioma	IGC	astrocytoma	44.0	Female	11.3	0:LIVING	80.0
+TCGA-HT-7902	Brain Lower Grade Glioma	IGC	oligoastrocytoma	30.0	Female	31.4	0:LIVING	
+TCGA-HT-8010	Brain Lower Grade Glioma	IGC	oligodendroglioma	64.0	Female	1.6	0:LIVING	
+TCGA-HT-8011	Brain Lower Grade Glioma	IGC	astrocytoma	55.0	Male	16.2	0:LIVING	
+TCGA-HT-8012	Brain Lower Grade Glioma	IGC	oligodendroglioma	30.0	Female	9.4	0:LIVING	
+TCGA-HT-8013	Brain Lower Grade Glioma	IGC	oligoastrocytoma	37.0	Female	63.5	1:DECEASED	
+TCGA-HT-8015	Brain Lower Grade Glioma	IGC	astrocytoma	21.0	Male	0.1	0:LIVING	
+TCGA-HT-8018	Brain Lower Grade Glioma	IGC	oligoastrocytoma	40.0	Female	21.5	0:LIVING	
+TCGA-HT-8019	Brain Lower Grade Glioma	IGC	oligodendroglioma	34.0	Female	33.0	0:LIVING	
+TCGA-HT-8104	Brain Lower Grade Glioma	IGC	astrocytoma	51.0	Female	12.2	0:LIVING	
+TCGA-HT-8105	Brain Lower Grade Glioma	IGC	oligodendroglioma	54.0	Male	6.2	0:LIVING	
+TCGA-HT-8106	Brain Lower Grade Glioma	IGC	astrocytoma	53.0	Male	0.1	0:LIVING	
+TCGA-HT-8107	Brain Lower Grade Glioma	IGC	oligodendroglioma	62.0	Male	0.5	0:LIVING	
+TCGA-HT-8108	Brain Lower Grade Glioma	IGC	oligodendroglioma	26.0	Female	2.5	0:LIVING	
+TCGA-HT-8109	Brain Lower Grade Glioma	IGC	oligodendroglioma	64.0	Male	3.9	0:LIVING	
+TCGA-HT-8110	Brain Lower Grade Glioma	IGC	astrocytoma	57.0	Male	4.7	0:LIVING	
+TCGA-HT-8111	Brain Lower Grade Glioma	IGC	oligoastrocytoma	32.0	Male	0.2	0:LIVING	
+TCGA-HT-8113	Brain Lower Grade Glioma	IGC	oligodendroglioma	49.0	Female	29.6	0:LIVING	
+TCGA-HT-8114	Brain Lower Grade Glioma	IGC	oligoastrocytoma	36.0	Male	3.9	0:LIVING	
+TCGA-HT-8558	Brain Lower Grade Glioma	IGC	oligodendroglioma	29.0	Female	1.7	0:LIVING	
+TCGA-HT-8563	Brain Lower Grade Glioma	IGC	astrocytoma	30.0	Female	16.0	0:LIVING	
+TCGA-HT-8564	Brain Lower Grade Glioma	IGC	astrocytoma	47.0	Male	15.7	0:LIVING	80.0
+TCGA-HT-A4DS	Brain Lower Grade Glioma	IGC	astrocytoma	55.0	Female	0.2	0:LIVING	
+TCGA-HT-A4DV	Brain Lower Grade Glioma	IGC	oligodendroglioma	51.0	Female	10.5	0:LIVING	90.0
+TCGA-HT-A5R5	Brain Lower Grade Glioma	IGC	oligodendroglioma	33.0	Female	0.1	0:LIVING	
+TCGA-HT-A5R7	Brain Lower Grade Glioma	IGC	astrocytoma	33.0	Female	14.0	0:LIVING	90.0
+TCGA-HT-A5R9	Brain Lower Grade Glioma	IGC	oligodendroglioma	48.0	Female	0.1	0:LIVING	
+TCGA-HT-A5RA	Brain Lower Grade Glioma	IGC	astrocytoma	65.0	Female	14.7	0:LIVING	70.0
+TCGA-HT-A5RB	Brain Lower Grade Glioma	IGC	astrocytoma	24.0	Male	0.1	0:LIVING	
+TCGA-HT-A5RC	Brain Lower Grade Glioma	IGC	astrocytoma	70.0	Female	5.3	1:DECEASED	40.0
+TCGA-HT-A614	Brain Lower Grade Glioma	IGC	oligoastrocytoma	47.0	Male	2.7	0:LIVING	
+TCGA-HT-A615	Brain Lower Grade Glioma	IGC	oligodendroglioma	38.0	Female	13.0	0:LIVING	90.0
+TCGA-HT-A616	Brain Lower Grade Glioma	IGC	astrocytoma	36.0	Female	1.8	0:LIVING	
+TCGA-HT-A617	Brain Lower Grade Glioma	IGC	oligodendroglioma	47.0	Male	16.1	0:LIVING	60.0
+TCGA-HT-A618	Brain Lower Grade Glioma	IGC	astrocytoma	37.0	Female	5.3	0:LIVING	80.0
+TCGA-HT-A619	Brain Lower Grade Glioma	IGC	oligodendroglioma	51.0	Female	14.3	0:LIVING	
+TCGA-HT-A61A	Brain Lower Grade Glioma	IGC	oligodendroglioma	20.0	Female	6.4	0:LIVING	80.0
+TCGA-HT-A61B	Brain Lower Grade Glioma	IGC						
+TCGA-HT-A61C	Brain Lower Grade Glioma	IGC	oligodendroglioma	66.0	Male	3.4	0:LIVING	100.0
+TCGA-HT-A74H	Brain Lower Grade Glioma	IGC	astrocytoma	62.0	Male	2.4	0:LIVING	
+TCGA-HT-A74J	Brain Lower Grade Glioma	IGC	oligoastrocytoma	33.0	Male	10.5	0:LIVING	
+TCGA-HT-A74K	Brain Lower Grade Glioma	IGC						
+TCGA-HT-A74L	Brain Lower Grade Glioma	IGC						
+TCGA-HT-A74O	Brain Lower Grade Glioma	IGC	astrocytoma	34.0	Male	0.1	0:LIVING	
+TCGA-HW-7486	Brain Lower Grade Glioma	IGC	oligodendroglioma	37.0	Male	29.9	0:LIVING	
+TCGA-HW-7487	Brain Lower Grade Glioma	IGC	oligodendroglioma	39.0	Male	13.4	0:LIVING	
+TCGA-HW-7489	Brain Lower Grade Glioma	IGC	oligoastrocytoma	38.0	Male	8.3	0:LIVING	
+TCGA-HW-7490	Brain Lower Grade Glioma	IGC	astrocytoma	41.0	Male	19.2	0:LIVING	
+TCGA-HW-7491	Brain Lower Grade Glioma	IGC	oligodendroglioma	35.0	Male	40.1	0:LIVING	
+TCGA-HW-7493	Brain Lower Grade Glioma	IGC	astrocytoma	40.0	Female	35.9	0:LIVING	
+TCGA-HW-7495	Brain Lower Grade Glioma	IGC	oligodendroglioma	45.0	Female	4.3	0:LIVING	
+TCGA-HW-8319	Brain Lower Grade Glioma	IGC	astrocytoma	34.0	Female	21.7	0:LIVING	
+TCGA-HW-8320	Brain Lower Grade Glioma	IGC	astrocytoma	36.0	Male	21.6	0:LIVING	
+TCGA-HW-8321	Brain Lower Grade Glioma	IGC	astrocytoma	31.0	Male	19.6	0:LIVING	
+TCGA-HW-8322	Brain Lower Grade Glioma	IGC	oligodendroglioma	39.0	Male	17.8	0:LIVING	
+TCGA-HW-A5KJ	Brain Lower Grade Glioma	IGC	oligodendroglioma	68.0	Male	10.5	0:LIVING	
+TCGA-HW-A5KK	Brain Lower Grade Glioma	IGC	astrocytoma	64.0	Male	12.7	1:DECEASED	
+TCGA-HW-A5KL	Brain Lower Grade Glioma	IGC	astrocytoma	42.0	Female	20.8	0:LIVING	
+TCGA-HW-A5KM	Brain Lower Grade Glioma	IGC	astrocytoma	35.0	Male	20.7	0:LIVING	
+TCGA-IK-7675	Brain Lower Grade Glioma	IGC	oligodendroglioma	43.0	Male	19.0	1:DECEASED	90.0
+TCGA-IK-8125	Brain Lower Grade Glioma	IGC	oligoastrocytoma	62.0	Male	42.7	0:LIVING	
+TCGA-KT-A74X	Brain Lower Grade Glioma	IGC	oligoastrocytoma	26.0	Male	5.2	0:LIVING	90.0
+TCGA-KT-A7W1	Brain Lower Grade Glioma	IGC	astrocytoma	45.0	Female	4.7	0:LIVING	80.0
+TCGA-P5-A5ET	Brain Lower Grade Glioma	NCH	oligodendroglioma	27.0	Male	0.0	0:LIVING	
+TCGA-P5-A5EU	Brain Lower Grade Glioma	NCH	astrocytoma	35.0	Male	0.0	0:LIVING	60.0
+TCGA-P5-A5EV	Brain Lower Grade Glioma	NCH	astrocytoma	39.0	Male	0.2	0:LIVING	60.0
+TCGA-P5-A5EW	Brain Lower Grade Glioma	NCH	astrocytoma	20.0	Female	6.7	0:LIVING	80.0
+TCGA-P5-A5EX	Brain Lower Grade Glioma	NCH	oligodendroglioma	41.0	Female	1.6	0:LIVING	80.0
+TCGA-P5-A5EY	Brain Lower Grade Glioma	NCH	astrocytoma	21.0	Male	2.4	0:LIVING	
+TCGA-P5-A5EZ	Brain Lower Grade Glioma	NCH	astrocytoma	39.0	Male	2.3	0:LIVING	
+TCGA-P5-A5F0	Brain Lower Grade Glioma	NCH	oligodendroglioma	33.0	Male	4.1	0:LIVING	80.0
+TCGA-P5-A5F1	Brain Lower Grade Glioma	NCH	astrocytoma	30.0	Male	5.9	0:LIVING	
+TCGA-P5-A5F2	Brain Lower Grade Glioma	NCH	astrocytoma	36.0	Female	7.6	0:LIVING	80.0
+TCGA-P5-A5F4	Brain Lower Grade Glioma	NCH	oligodendroglioma	35.0	Female	0.8	0:LIVING	70.0
+TCGA-P5-A5F6	Brain Lower Grade Glioma	NCH	oligodendroglioma	26.0	Male	1.3	0:LIVING	70.0
+TCGA-P5-A72U	Brain Lower Grade Glioma	NCH	oligodendroglioma	71.0	Female	0.2	0:LIVING	
+TCGA-P5-A72W	Brain Lower Grade Glioma	NCH	astrocytoma	35.0	Male	0.3	0:LIVING	
+TCGA-P5-A72X	Brain Lower Grade Glioma	NCH	astrocytoma	21.0	Male	0.3	0:LIVING	
+TCGA-P5-A72Z	Brain Lower Grade Glioma	NCH	oligodendroglioma	64.0	Female	0.3	0:LIVING	
+TCGA-P5-A730	Brain Lower Grade Glioma	NCH	oligoastrocytoma	22.0	Male	0.2	0:LIVING	
+TCGA-P5-A731	Brain Lower Grade Glioma	NCH	oligoastrocytoma	59.0	Female	0.2	0:LIVING	90.0
+TCGA-P5-A733	Brain Lower Grade Glioma	NCH	astrocytoma	52.0	Female	0.2	0:LIVING	
+TCGA-P5-A735	Brain Lower Grade Glioma	NCH						
+TCGA-P5-A736	Brain Lower Grade Glioma	NCH						
+TCGA-P5-A737	Brain Lower Grade Glioma	NCH						
+TCGA-P5-A77W	Brain Lower Grade Glioma	NCH						
+TCGA-P5-A77X	Brain Lower Grade Glioma	NCH						
+TCGA-P5-A780	Brain Lower Grade Glioma	NCH						
+TCGA-P5-A781	Brain Lower Grade Glioma	NCH						
+TCGA-QH-A65R	Brain Lower Grade Glioma	NCH	oligodendroglioma	38.0	Female	5.7	0:LIVING	100.0
+TCGA-QH-A65S	Brain Lower Grade Glioma	NCH	oligoastrocytoma	32.0	Female	2.5	0:LIVING	90.0
+TCGA-QH-A65V	Brain Lower Grade Glioma	NCH	oligodendroglioma	43.0	Female	4.8	0:LIVING	90.0
+TCGA-QH-A65X	Brain Lower Grade Glioma	NCH	oligoastrocytoma	28.0	Female	7.8	0:LIVING	90.0
+TCGA-QH-A65Z	Brain Lower Grade Glioma	NCH	oligodendroglioma	54.0	Male	4.1	0:LIVING	90.0
+TCGA-QH-A6CS	Brain Lower Grade Glioma	NCH	astrocytoma	41.0	Male	4.2	0:LIVING	90.0
+TCGA-QH-A6CU	Brain Lower Grade Glioma	NCH	oligodendroglioma	52.0	Female	0.0	0:LIVING	90.0
+TCGA-QH-A6CV	Brain Lower Grade Glioma	NCH	oligoastrocytoma	51.0	Male	3.0	0:LIVING	90.0
+TCGA-QH-A6CW	Brain Lower Grade Glioma	NCH	oligoastrocytoma	43.0	Male	0.0	0:LIVING	90.0
+TCGA-QH-A6CX	Brain Lower Grade Glioma	NCH	astrocytoma	66.0	Male	0.0	0:LIVING	90.0
+TCGA-QH-A6CY	Brain Lower Grade Glioma	NCH	oligoastrocytoma	38.0	Male	2.2	0:LIVING	90.0
+TCGA-QH-A6CZ	Brain Lower Grade Glioma	NCH	oligoastrocytoma	38.0	Male	3.2	0:LIVING	90.0
+TCGA-QH-A6X3	Brain Lower Grade Glioma	NCH	oligoastrocytoma	27.0	Male	0.6	0:LIVING	90.0
+TCGA-QH-A6X4	Brain Lower Grade Glioma	NCH	oligoastrocytoma	47.0	Male	6.3	0:LIVING	90.0
+TCGA-QH-A6X5	Brain Lower Grade Glioma	NCH	oligoastrocytoma	58.0	Female	3.9	0:LIVING	90.0
+TCGA-QH-A6X8	Brain Lower Grade Glioma	NCH	oligodendroglioma	56.0	Female	4.7	0:LIVING	100.0
+TCGA-QH-A6X9	Brain Lower Grade Glioma	NCH	oligodendroglioma	73.0	Female	1.9	0:LIVING	40.0
+TCGA-QH-A6XA	Brain Lower Grade Glioma	NCH	oligoastrocytoma	23.0	Female	0.2	0:LIVING	100.0
+TCGA-QH-A6XC	Brain Lower Grade Glioma	NCH	astrocytoma	48.0	Male	5.0	0:LIVING	70.0
+TCGA-QH-A86X	Brain Lower Grade Glioma	NCH	oligodendroglioma	33.0	Male	3.5	0:LIVING	100.0
+TCGA-QH-A870	Brain Lower Grade Glioma	NCH	oligoastrocytoma	38.0	Female	0.1	0:LIVING	80.0
+TCGA-R8-A6MK	Brain Lower Grade Glioma	NCH	oligodendroglioma	40.0	Male	88.8	0:LIVING	
+TCGA-R8-A6ML	Brain Lower Grade Glioma	NCH	oligodendroglioma	52.0	Male	94.0	0:LIVING	
+TCGA-R8-A6MO	Brain Lower Grade Glioma	NCH	oligodendroglioma	53.0	Female	32.6	0:LIVING	
+TCGA-R8-A6YH	Brain Lower Grade Glioma	NCH						
+TCGA-R8-A73M	Brain Lower Grade Glioma	NCH	oligodendroglioma	48.0	Female	59.3	0:LIVING	
+TCGA-RY-A83X	Brain Lower Grade Glioma	NCH						
+TCGA-RY-A83Y	Brain Lower Grade Glioma	NCH						
+TCGA-RY-A83Z	Brain Lower Grade Glioma	NCH						
+TCGA-RY-A840	Brain Lower Grade Glioma	NCH						
+TCGA-RY-A843	Brain Lower Grade Glioma	NCH						
+TCGA-RY-A845	Brain Lower Grade Glioma	NCH						
+TCGA-RY-A847	Brain Lower Grade Glioma	NCH						
+TCGA-S9-A6TS	Brain Lower Grade Glioma	NCH	astrocytoma	48.0	Female	62.1	1:DECEASED	100.0
+TCGA-S9-A6TU	Brain Lower Grade Glioma	NCH	astrocytoma	38.0	Male	69.0	0:LIVING	100.0
+TCGA-S9-A6TV	Brain Lower Grade Glioma	NCH	oligoastrocytoma	50.0	Male	18.8	0:LIVING	90.0
+TCGA-S9-A6TW	Brain Lower Grade Glioma	NCH	oligodendroglioma	40.0	Male	28.3	0:LIVING	90.0
+TCGA-S9-A6TX	Brain Lower Grade Glioma	NCH	oligodendroglioma	46.0	Male	28.1	0:LIVING	100.0
+TCGA-S9-A6TY	Brain Lower Grade Glioma	NCH	oligodendroglioma	50.0	Male	22.5	0:LIVING	100.0
+TCGA-S9-A6TZ	Brain Lower Grade Glioma	NCH	astrocytoma	39.0	Female	21.6	0:LIVING	100.0
+TCGA-S9-A6U0	Brain Lower Grade Glioma	NCH	astrocytoma	46.0	Male	16.4	0:LIVING	100.0
+TCGA-S9-A6U1	Brain Lower Grade Glioma	NCH	astrocytoma	22.0	Female	11.3	0:LIVING	100.0
+TCGA-S9-A6U2	Brain Lower Grade Glioma	NCH	oligodendroglioma	48.0	Female	15.6	0:LIVING	100.0
+TCGA-S9-A6U5	Brain Lower Grade Glioma	NCH	astrocytoma	33.0	Male	20.0	0:LIVING	100.0
+TCGA-S9-A6U6	Brain Lower Grade Glioma	NCH	astrocytoma	28.0	Male	9.9	0:LIVING	100.0
+TCGA-S9-A6U8	Brain Lower Grade Glioma	NCH	astrocytoma	24.0	Male	94.6	0:LIVING	100.0
+TCGA-S9-A6U9	Brain Lower Grade Glioma	NCH	astrocytoma	36.0	Male	83.6	0:LIVING	
+TCGA-S9-A6UA	Brain Lower Grade Glioma	NCH	astrocytoma	66.0	Male	5.8	1:DECEASED	60.0
+TCGA-S9-A6UB	Brain Lower Grade Glioma	NCH	oligodendroglioma	52.0	Male	103.7	0:LIVING	100.0
+TCGA-S9-A6WD	Brain Lower Grade Glioma	NCH	oligodendroglioma	58.0	Male	62.3	0:LIVING	100.0
+TCGA-S9-A6WE	Brain Lower Grade Glioma	NCH	oligodendroglioma	34.0	Male	72.5	0:LIVING	100.0
+TCGA-S9-A6WG	Brain Lower Grade Glioma	NCH	astrocytoma	31.0	Male	70.5	0:LIVING	100.0
+TCGA-S9-A6WH	Brain Lower Grade Glioma	NCH	oligoastrocytoma	73.0	Female	22.9	0:LIVING	80.0
+TCGA-S9-A6WI	Brain Lower Grade Glioma	NCH	oligoastrocytoma	56.0	Female	70.6	0:LIVING	100.0
+TCGA-S9-A6WL	Brain Lower Grade Glioma	NCH	astrocytoma	52.0	Male	10.9	0:LIVING	100.0
+TCGA-S9-A6WM	Brain Lower Grade Glioma	NCH	astrocytoma	59.0	Female	9.3	0:LIVING	90.0
+TCGA-S9-A6WN	Brain Lower Grade Glioma	NCH	astrocytoma	38.0	Female	9.0	0:LIVING	90.0
+TCGA-S9-A6WO	Brain Lower Grade Glioma	NCH	astrocytoma	29.0	Male	7.6	0:LIVING	100.0
+TCGA-S9-A6WP	Brain Lower Grade Glioma	NCH	oligoastrocytoma	42.0	Male	6.1	0:LIVING	100.0
+TCGA-S9-A6WQ	Brain Lower Grade Glioma	NCH	oligoastrocytoma	57.0	Female	3.4	0:LIVING	100.0
+TCGA-S9-A7IQ	Brain Lower Grade Glioma	NCH	oligoastrocytoma	45.0	Female	14.3	0:LIVING	100.0
+TCGA-S9-A7IS	Brain Lower Grade Glioma	NCH	astrocytoma	33.0	Female	7.9	1:DECEASED	60.0
+TCGA-S9-A7IX	Brain Lower Grade Glioma	NCH	astrocytoma	57.0	Male	19.6	0:LIVING	100.0
+TCGA-S9-A7IY	Brain Lower Grade Glioma	NCH	oligoastrocytoma	39.0	Male	12.6	0:LIVING	80.0
+TCGA-S9-A7IZ	Brain Lower Grade Glioma	NCH	astrocytoma	48.0	Female	4.2	0:LIVING	90.0
+TCGA-S9-A7J0	Brain Lower Grade Glioma	NCH	oligodendroglioma	30.0	Female	9.4	0:LIVING	100.0
+TCGA-S9-A7J1	Brain Lower Grade Glioma	NCH	oligodendroglioma	43.0	Male	8.2	0:LIVING	60.0
+TCGA-S9-A7J2	Brain Lower Grade Glioma	NCH	oligodendroglioma	25.0	Male	2.0	0:LIVING	80.0
+TCGA-S9-A7J3	Brain Lower Grade Glioma	NCH	oligodendroglioma	52.0	Female	8.1	0:LIVING	100.0
+TCGA-S9-A7QW	Brain Lower Grade Glioma	NCH	astrocytoma	54.0	Female	3.6	0:LIVING	100.0
+TCGA-S9-A7QX	Brain Lower Grade Glioma	NCH	astrocytoma	36.0	Female	4.0	0:LIVING	100.0
+TCGA-S9-A7QY	Brain Lower Grade Glioma	NCH	oligoastrocytoma	35.0	Female	18.2	0:LIVING	100.0
+TCGA-S9-A7QZ	Brain Lower Grade Glioma	NCH	oligodendroglioma	41.0	Male	13.0	0:LIVING	100.0
+TCGA-S9-A7R1	Brain Lower Grade Glioma	NCH	oligodendroglioma	35.0	Male	164.3	0:LIVING	90.0
+TCGA-S9-A7R2	Brain Lower Grade Glioma	NCH	astrocytoma	69.0	Male	10.4	1:DECEASED	90.0
+TCGA-S9-A7R3	Brain Lower Grade Glioma	NCH	astrocytoma	28.0	Female	87.0	0:LIVING	100.0
+TCGA-S9-A7R4	Brain Lower Grade Glioma	NCH	astrocytoma	46.0	Male	17.4	0:LIVING	90.0
+TCGA-S9-A7R7	Brain Lower Grade Glioma	NCH	astrocytoma	27.0	Male	83.7	0:LIVING	80.0
+TCGA-S9-A7R8	Brain Lower Grade Glioma	NCH	astrocytoma	44.0	Female	31.6	1:DECEASED	90.0
+TCGA-S9-A89V	Brain Lower Grade Glioma	NCH	astrocytoma	70.0	Male	18.7	0:LIVING	80.0
+TCGA-S9-A89Z	Brain Lower Grade Glioma	NCH	astrocytoma	40.0	Male	5.0	0:LIVING	70.0
+TCGA-TM-A7C3	Brain Lower Grade Glioma	NCH	astrocytoma	43.0	Female	49.4	0:LIVING	90.0
+TCGA-TM-A7C4	Brain Lower Grade Glioma	NCH	astrocytoma	39.0	Female	35.9	0:LIVING	90.0
+TCGA-TM-A7C5	Brain Lower Grade Glioma	NCH	oligoastrocytoma	30.0	Male	25.3	0:LIVING	100.0
+TCGA-TM-A7CA	Brain Lower Grade Glioma	NCH	astrocytoma	44.0	Male	22.6	0:LIVING	100.0
+TCGA-TM-A7CF	Brain Lower Grade Glioma	NCH	astrocytoma	41.0	Female	48.4	0:LIVING	100.0
+TCGA-TM-A84B	Brain Lower Grade Glioma	NCH	astrocytoma	40.0	Male	12.0	0:LIVING	90.0
+TCGA-TM-A84C	Brain Lower Grade Glioma	NCH	astrocytoma	32.0	Male	15.1	0:LIVING	80.0
+TCGA-TM-A84F	Brain Lower Grade Glioma	NCH	astrocytoma	48.0	Male	50.7	0:LIVING	100.0
+TCGA-TM-A84G	Brain Lower Grade Glioma	NCH	oligodendroglioma	54.0	Female	34.3	0:LIVING	100.0
+TCGA-TM-A84H	Brain Lower Grade Glioma	NCH	oligoastrocytoma	44.0	Female	24.2	0:LIVING	90.0
+TCGA-TM-A84I	Brain Lower Grade Glioma	NCH	astrocytoma	30.0	Male	19.4	0:LIVING	90.0
+TCGA-TM-A84J	Brain Lower Grade Glioma	NCH	oligodendroglioma	63.0	Male	17.5	0:LIVING	80.0
+TCGA-TM-A84L	Brain Lower Grade Glioma	NCH	oligoastrocytoma	31.0	Male	40.8	1:DECEASED	90.0
+TCGA-TM-A84M	Brain Lower Grade Glioma	NCH	oligodendroglioma	40.0	Male	16.5	0:LIVING	100.0
+TCGA-TM-A84O	Brain Lower Grade Glioma	NCH	oligodendroglioma	61.0	Female	29.9	0:LIVING	90.0
+TCGA-TM-A84Q	Brain Lower Grade Glioma	NCH	astrocytoma	31.0	Male	18.9	0:LIVING	80.0
+TCGA-TM-A84R	Brain Lower Grade Glioma	NCH	oligodendroglioma	46.0	Male	9.4	0:LIVING	80.0
+TCGA-TM-A84S	Brain Lower Grade Glioma	NCH	oligodendroglioma	36.0	Male	4.6	0:LIVING	80.0
+TCGA-TM-A84T	Brain Lower Grade Glioma	NCH	oligoastrocytoma	19.0	Male	12.0	0:LIVING	90.0
+TCGA-TQ-A7RF	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RG	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RH	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RI	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RJ	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RK	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RM	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RN	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RO	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RP	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RQ	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RR	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RS	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RU	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RV	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A7RW	Brain Lower Grade Glioma	NCH						
+TCGA-TQ-A8XE	Brain Lower Grade Glioma	NCH						
+TCGA-VM-A8C8	Brain Lower Grade Glioma	NCH	oligodendroglioma	50.0	Female	33.1	0:LIVING	90.0
+TCGA-VM-A8C9	Brain Lower Grade Glioma	NCH	astrocytoma	37.0	Female	30.1	0:LIVING	
+TCGA-VM-A8CA	Brain Lower Grade Glioma	NCH	oligodendroglioma	54.0	Male	13.5	0:LIVING	70.0
+TCGA-VM-A8CB	Brain Lower Grade Glioma	NCH	oligodendroglioma	33.0	Male	0.1	0:LIVING	
+TCGA-VM-A8CD	Brain Lower Grade Glioma	NCH	astrocytoma	58.0	Male	7.9	1:DECEASED	100.0
+TCGA-VM-A8CE	Brain Lower Grade Glioma	NCH	oligodendroglioma	25.0	Male	26.8	0:LIVING	90.0
+TCGA-VM-A8CF	Brain Lower Grade Glioma	NCH						
+TCGA-VM-A8CH	Brain Lower Grade Glioma	NCH	astrocytoma	24.0	Female	10.9	0:LIVING	90.0
+TCGA-VV-A829	Brain Lower Grade Glioma	NCH	oligoastrocytoma	44.0	Male	27.0	0:LIVING	
+TCGA-VV-A86M	Brain Lower Grade Glioma	NCH	astrocytoma	36.0	Female	7.0	0:LIVING	
+TCGA-VW-A7QS	Brain Lower Grade Glioma	NCH	oligodendroglioma	35.0	Female	23.2	0:LIVING	
+TCGA-VW-A8FI	Brain Lower Grade Glioma	NCH	astrocytoma	66.0	Male	8.0	1:DECEASED	
+TCGA-W9-A837	Brain Lower Grade Glioma	NCH	oligodendroglioma	47.0	Male	45.0	0:LIVING	
+TCGA-WH-A86K	Brain Lower Grade Glioma	NCH	astrocytoma	65.0	Male	5.3	0:LIVING	
+TCGA-WY-A858	Brain Lower Grade Glioma	NCH	astrocytoma	32.0	Female	43.9	0:LIVING	100.0
+TCGA-WY-A859	Brain Lower Grade Glioma	NCH						
+TCGA-WY-A85A	Brain Lower Grade Glioma	NCH						
+TCGA-WY-A85B	Brain Lower Grade Glioma	NCH						
+TCGA-WY-A85C	Brain Lower Grade Glioma	NCH						
+TCGA-WY-A85D	Brain Lower Grade Glioma	NCH						
+TCGA-WY-A85E	Brain Lower Grade Glioma	NCH						
+TCGA-02-0001	Glioblastoma multiforme	IGC	glioblastoma	44.0	Female	11.8	1:DECEASED	80.0
+TCGA-02-0003	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	4.7	1:DECEASED	100.0
+TCGA-02-0004	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	11.3	1:DECEASED	80.0
+TCGA-02-0006	Glioblastoma multiforme	IGC	glioblastoma	56.0	Female	18.3	1:DECEASED	80.0
+TCGA-02-0007	Glioblastoma multiforme	IGC	glioblastoma	40.0	Female	23.2	1:DECEASED	80.0
+TCGA-02-0009	Glioblastoma multiforme	IGC	glioblastoma	61.0	Female	10.6	1:DECEASED	80.0
+TCGA-02-0010	Glioblastoma multiforme	IGC	glioblastoma	20.0	Female	35.4	1:DECEASED	80.0
+TCGA-02-0011	Glioblastoma multiforme	IGC	glioblastoma	18.0	Female	20.7	1:DECEASED	80.0
+TCGA-02-0014	Glioblastoma multiforme	IGC	glioblastoma	25.0	Male	82.5	1:DECEASED	100.0
+TCGA-02-0015	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	20.6	1:DECEASED	80.0
+TCGA-02-0016	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	55.8	0:LIVING	100.0
+TCGA-02-0021	Glioblastoma multiforme	IGC	glioblastoma	43.0	Female	77.6	1:DECEASED	80.0
+TCGA-02-0023	Glioblastoma multiforme	IGC	glioblastoma	38.0	Female	20.1	1:DECEASED	80.0
+TCGA-02-0024	Glioblastoma multiforme	IGC	glioblastoma	35.0	Male	53.1	1:DECEASED	100.0
+TCGA-02-0025	Glioblastoma multiforme	IGC	glioblastoma	47.0	Male	42.7	1:DECEASED	100.0
+TCGA-02-0026	Glioblastoma multiforme	IGC	glioblastoma	27.0	Male	24.6	1:DECEASED	80.0
+TCGA-02-0027	Glioblastoma multiforme	IGC	glioblastoma	33.0	Female	12.2	1:DECEASED	100.0
+TCGA-02-0028	Glioblastoma multiforme	IGC	glioblastoma	39.0	Male	90.5	1:DECEASED	100.0
+TCGA-02-0033	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	2.8	1:DECEASED	100.0
+TCGA-02-0034	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	14.1	1:DECEASED	80.0
+TCGA-02-0037	Glioblastoma multiforme	IGC	glioblastoma	74.0	Female	3.6	1:DECEASED	80.0
+TCGA-02-0038	Glioblastoma multiforme	IGC	glioblastoma	48.0	Female	10.7	1:DECEASED	80.0
+TCGA-02-0039	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	10.5	1:DECEASED	60.0
+TCGA-02-0043	Glioblastoma multiforme	IGC	glioblastoma	54.0	Female	18.3	1:DECEASED	80.0
+TCGA-02-0046	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	6.9	1:DECEASED	60.0
+TCGA-02-0047	Glioblastoma multiforme	IGC	glioblastoma	78.0	Male	14.7	1:DECEASED	80.0
+TCGA-02-0048	Glioblastoma multiforme	IGC	glioblastoma	80.0	Male	3.2	1:DECEASED	
+TCGA-02-0051	Glioblastoma multiforme	IGC	glioblastoma	43.0	Male	15.1	1:DECEASED	100.0
+TCGA-02-0052	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	12.6	1:DECEASED	80.0
+TCGA-02-0054	Glioblastoma multiforme	IGC	glioblastoma	44.0	Female	6.5	1:DECEASED	80.0
+TCGA-02-0055	Glioblastoma multiforme	IGC	glioblastoma	62.0	Female	2.5	1:DECEASED	80.0
+TCGA-02-0057	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	19.8	1:DECEASED	80.0
+TCGA-02-0058	Glioblastoma multiforme	IGC	glioblastoma	28.0	Female	8.3	1:DECEASED	80.0
+TCGA-02-0059	Glioblastoma multiforme	IGC	glioblastoma	68.0	Female	9.6	1:DECEASED	80.0
+TCGA-02-0060	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	6.0	1:DECEASED	80.0
+TCGA-02-0064	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	19.7	1:DECEASED	100.0
+TCGA-02-0068	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	26.4	1:DECEASED	80.0
+TCGA-02-0069	Glioblastoma multiforme	IGC	glioblastoma	31.0	Female	28.7	0:LIVING	80.0
+TCGA-02-0070	Glioblastoma multiforme	IGC	glioblastoma	70.0	Male	25.0	0:LIVING	80.0
+TCGA-02-0071	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	5.5	1:DECEASED	80.0
+TCGA-02-0074	Glioblastoma multiforme	IGC	glioblastoma	68.0	Female	10.2	1:DECEASED	80.0
+TCGA-02-0075	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	20.8	1:DECEASED	80.0
+TCGA-02-0079	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	27.2	1:DECEASED	80.0
+TCGA-02-0080	Glioblastoma multiforme	IGC	glioblastoma	28.0	Male	89.7	1:DECEASED	80.0
+TCGA-02-0083	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	22.7	1:DECEASED	80.0
+TCGA-02-0084	Glioblastoma multiforme	IGC	glioblastoma	36.0	Female	12.6	1:DECEASED	80.0
+TCGA-02-0085	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	51.3	1:DECEASED	80.0
+TCGA-02-0086	Glioblastoma multiforme	IGC	glioblastoma	45.0	Female	8.8	1:DECEASED	100.0
+TCGA-02-0087	Glioblastoma multiforme	IGC	glioblastoma	27.0	Female	57.7	0:LIVING	80.0
+TCGA-02-0089	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	17.0	1:DECEASED	100.0
+TCGA-02-0099	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	3.5	1:DECEASED	80.0
+TCGA-02-0102	Glioblastoma multiforme	IGC	glioblastoma	42.0	Male	27.0	1:DECEASED	100.0
+TCGA-02-0104	Glioblastoma multiforme	IGC	glioblastoma	29.0	Female	65.0	1:DECEASED	80.0
+TCGA-02-0106	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	11.7	1:DECEASED	80.0
+TCGA-02-0107	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	17.6	1:DECEASED	80.0
+TCGA-02-0111	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	23.2	1:DECEASED	80.0
+TCGA-02-0113	Glioblastoma multiforme	IGC	glioblastoma	43.0	Female	92.6	0:LIVING	100.0
+TCGA-02-0114	Glioblastoma multiforme	IGC	glioblastoma	37.0	Female	99.9	1:DECEASED	80.0
+TCGA-02-0115	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	15.6	1:DECEASED	80.0
+TCGA-02-0116	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	48.9	1:DECEASED	80.0
+TCGA-02-0250	Glioblastoma multiforme	IGC						
+TCGA-02-0258	Glioblastoma multiforme	IGC	glioblastoma	36.0	Female	16.5	1:DECEASED	
+TCGA-02-0260	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	16.9	1:DECEASED	
+TCGA-02-0266	Glioblastoma multiforme	IGC	glioblastoma	14.0	Male	17.7	1:DECEASED	
+TCGA-02-0269	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	10.7	1:DECEASED	
+TCGA-02-0271	Glioblastoma multiforme	IGC	glioblastoma	26.0	Male	14.5	1:DECEASED	
+TCGA-02-0281	Glioblastoma multiforme	IGC	glioblastoma	78.0	Female	4.0	1:DECEASED	
+TCGA-02-0285	Glioblastoma multiforme	IGC	glioblastoma	50.0	Female	13.9	1:DECEASED	
+TCGA-02-0289	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	14.2	1:DECEASED	80.0
+TCGA-02-0290	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	15.9	1:DECEASED	80.0
+TCGA-02-0317	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	12.2	1:DECEASED	80.0
+TCGA-02-0321	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	9.9	1:DECEASED	80.0
+TCGA-02-0324	Glioblastoma multiforme	IGC	glioblastoma	69.0	Female	7.7	1:DECEASED	80.0
+TCGA-02-0325	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	10.6	1:DECEASED	80.0
+TCGA-02-0326	Glioblastoma multiforme	IGC	glioblastoma	82.0	Female	7.3	1:DECEASED	80.0
+TCGA-02-0329	Glioblastoma multiforme	IGC						
+TCGA-02-0330	Glioblastoma multiforme	IGC	glioblastoma	51.0	Female	15.9	1:DECEASED	80.0
+TCGA-02-0332	Glioblastoma multiforme	IGC	glioblastoma	46.0	Female	25.7	1:DECEASED	80.0
+TCGA-02-0333	Glioblastoma multiforme	IGC	glioblastoma	77.0	Female	4.4	1:DECEASED	
+TCGA-02-0336	Glioblastoma multiforme	IGC						
+TCGA-02-0337	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	25.1	1:DECEASED	80.0
+TCGA-02-0338	Glioblastoma multiforme	IGC	glioblastoma	41.0	Male	10.6	1:DECEASED	80.0
+TCGA-02-0339	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	12.4	1:DECEASED	80.0
+TCGA-02-0422	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	14.5	1:DECEASED	80.0
+TCGA-02-0430	Glioblastoma multiforme	IGC	glioblastoma	67.0	Female	10.5	1:DECEASED	100.0
+TCGA-02-0432	Glioblastoma multiforme	IGC	glioblastoma	36.0	Male	47.1	1:DECEASED	80.0
+TCGA-02-0439	Glioblastoma multiforme	IGC	glioblastoma	70.0	Female	0.7	1:DECEASED	80.0
+TCGA-02-0440	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	11.3	1:DECEASED	80.0
+TCGA-02-0446	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	9.3	1:DECEASED	80.0
+TCGA-02-0451	Glioblastoma multiforme	IGC	glioblastoma	62.0	Female	16.2	1:DECEASED	80.0
+TCGA-02-0456	Glioblastoma multiforme	IGC	glioblastoma	67.0	Female	3.4	1:DECEASED	60.0
+TCGA-02-2466	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	16.8	1:DECEASED	80.0
+TCGA-02-2470	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	12.9	1:DECEASED	60.0
+TCGA-02-2483	Glioblastoma multiforme	IGC	glioblastoma	43.0	Male	15.3	0:LIVING	80.0
+TCGA-02-2485	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	15.4	0:LIVING	80.0
+TCGA-02-2486	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	16.2	0:LIVING	80.0
+TCGA-06-0119	Glioblastoma multiforme	IGC	glioblastoma	81.0	Female	2.7	1:DECEASED	
+TCGA-06-0121	Glioblastoma multiforme	IGC						
+TCGA-06-0122	Glioblastoma multiforme	IGC	glioblastoma	84.0	Female	6.1	1:DECEASED	
+TCGA-06-0124	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	20.4	1:DECEASED	
+TCGA-06-0125	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	47.6	1:DECEASED	60.0
+TCGA-06-0126	Glioblastoma multiforme	IGC	glioblastoma	86.0	Male	6.9	1:DECEASED	60.0
+TCGA-06-0127	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	4.0	1:DECEASED	60.0
+TCGA-06-0128	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	22.7	1:DECEASED	80.0
+TCGA-06-0129	Glioblastoma multiforme	IGC	glioblastoma	30.0	Male	33.6	1:DECEASED	100.0
+TCGA-06-0130	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	12.9	1:DECEASED	80.0
+TCGA-06-0131	Glioblastoma multiforme	IGC						
+TCGA-06-0132	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	25.3	1:DECEASED	
+TCGA-06-0133	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	14.3	1:DECEASED	
+TCGA-06-0137	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	26.7	1:DECEASED	
+TCGA-06-0138	Glioblastoma multiforme	IGC	glioblastoma	43.0	Male	24.2	1:DECEASED	80.0
+TCGA-06-0139	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	11.9	1:DECEASED	60.0
+TCGA-06-0140	Glioblastoma multiforme	IGC	glioblastoma	86.0	Male	0.2	1:DECEASED	90.0
+TCGA-06-0141	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	10.3	1:DECEASED	80.0
+TCGA-06-0142	Glioblastoma multiforme	IGC	glioblastoma	81.0	Male	2.2	1:DECEASED	
+TCGA-06-0143	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	11.7	1:DECEASED	60.0
+TCGA-06-0145	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	2.3	1:DECEASED	
+TCGA-06-0146	Glioblastoma multiforme	IGC	glioblastoma	33.0	Female	20.1	1:DECEASED	
+TCGA-06-0147	Glioblastoma multiforme	IGC	glioblastoma	51.0	Female	17.8	1:DECEASED	
+TCGA-06-0148	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	10.1	1:DECEASED	
+TCGA-06-0149	Glioblastoma multiforme	IGC	glioblastoma	74.0	Female	8.6	1:DECEASED	80.0
+TCGA-06-0150	Glioblastoma multiforme	IGC	glioblastoma	45.0	Male	19.5	1:DECEASED	
+TCGA-06-0151	Glioblastoma multiforme	IGC	glioblastoma	32.0	Female	46.6	1:DECEASED	70.0
+TCGA-06-0152	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	12.3	1:DECEASED	
+TCGA-06-0154	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	13.9	1:DECEASED	100.0
+TCGA-06-0155	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	10.4	1:DECEASED	80.0
+TCGA-06-0156	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	5.8	1:DECEASED	
+TCGA-06-0157	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	3.2	1:DECEASED	40.0
+TCGA-06-0158	Glioblastoma multiforme	IGC	glioblastoma	73.0	Male	10.8	1:DECEASED	80.0
+TCGA-06-0159	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	9.4	1:DECEASED	90.0
+TCGA-06-0160	Glioblastoma multiforme	IGC	glioblastoma	56.0	Female	11.8	1:DECEASED	
+TCGA-06-0162	Glioblastoma multiforme	IGC	glioblastoma	47.0	Female	3.4	1:DECEASED	60.0
+TCGA-06-0164	Glioblastoma multiforme	IGC	glioblastoma	47.0	Male	56.9	1:DECEASED	100.0
+TCGA-06-0165	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	10.6	1:DECEASED	90.0
+TCGA-06-0166	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	5.8	1:DECEASED	
+TCGA-06-0167	Glioblastoma multiforme	IGC	glioblastoma	44.0	Male	11.4	1:DECEASED	90.0
+TCGA-06-0168	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	19.6	1:DECEASED	100.0
+TCGA-06-0169	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	3.3	1:DECEASED	80.0
+TCGA-06-0171	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	13.1	1:DECEASED	100.0
+TCGA-06-0173	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	4.5	1:DECEASED	
+TCGA-06-0174	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	3.2	1:DECEASED	80.0
+TCGA-06-0175	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	4.0	1:DECEASED	100.0
+TCGA-06-0176	Glioblastoma multiforme	IGC	glioblastoma	34.0	Male	51.3	0:LIVING	80.0
+TCGA-06-0177	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	4.2	1:DECEASED	60.0
+TCGA-06-0178	Glioblastoma multiforme	IGC	glioblastoma	38.0	Male	53.9	0:LIVING	
+TCGA-06-0179	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	20.2	1:DECEASED	60.0
+TCGA-06-0182	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	3.6	1:DECEASED	60.0
+TCGA-06-0184	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	40.3	0:LIVING	80.0
+TCGA-06-0185	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	37.0	0:LIVING	100.0
+TCGA-06-0187	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	27.2	1:DECEASED	60.0
+TCGA-06-0188	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	28.5	0:LIVING	100.0
+TCGA-06-0189	Glioblastoma multiforme	IGC	glioblastoma	55.0	Male	15.4	1:DECEASED	
+TCGA-06-0190	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	10.4	1:DECEASED	80.0
+TCGA-06-0192	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	18.3	0:LIVING	100.0
+TCGA-06-0194	Glioblastoma multiforme	IGC	glioblastoma	37.0	Female	4.7	1:DECEASED	
+TCGA-06-0195	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	7.4	1:DECEASED	100.0
+TCGA-06-0197	Glioblastoma multiforme	IGC	glioblastoma	65.0	Female	5.6	1:DECEASED	
+TCGA-06-0201	Glioblastoma multiforme	IGC	glioblastoma	51.0	Female	0.4	1:DECEASED	
+TCGA-06-0206	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	7.7	1:DECEASED	
+TCGA-06-0208	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	8.4	1:DECEASED	80.0
+TCGA-06-0209	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	7.6	1:DECEASED	
+TCGA-06-0210	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	7.4	1:DECEASED	
+TCGA-06-0211	Glioblastoma multiforme	IGC	glioblastoma	47.0	Male	11.8	1:DECEASED	100.0
+TCGA-06-0213	Glioblastoma multiforme	IGC	glioblastoma	55.0	Female	0.5	1:DECEASED	
+TCGA-06-0214	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	15.0	1:DECEASED	100.0
+TCGA-06-0216	Glioblastoma multiforme	IGC	glioblastoma	61.0	Female	24.1	1:DECEASED	80.0
+TCGA-06-0219	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	0.7	1:DECEASED	
+TCGA-06-0221	Glioblastoma multiforme	IGC	glioblastoma	31.0	Male	19.8	1:DECEASED	100.0
+TCGA-06-0237	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	13.6	1:DECEASED	
+TCGA-06-0238	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	13.3	1:DECEASED	80.0
+TCGA-06-0240	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	20.4	1:DECEASED	90.0
+TCGA-06-0241	Glioblastoma multiforme	IGC	glioblastoma	65.0	Female	14.9	0:LIVING	100.0
+TCGA-06-0394	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	10.8	1:DECEASED	
+TCGA-06-0397	Glioblastoma multiforme	IGC	glioblastoma	57.0	Female	9.0	1:DECEASED	
+TCGA-06-0402	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	0.3	1:DECEASED	
+TCGA-06-0409	Glioblastoma multiforme	IGC	glioblastoma	43.0	Male	72.3	1:DECEASED	
+TCGA-06-0410	Glioblastoma multiforme	IGC	glioblastoma	76.0	Female	4.7	1:DECEASED	
+TCGA-06-0412	Glioblastoma multiforme	IGC	glioblastoma	56.0	Female	9.6	1:DECEASED	
+TCGA-06-0413	Glioblastoma multiforme	IGC	glioblastoma	77.0	Female	3.2	1:DECEASED	
+TCGA-06-0414	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	35.1	1:DECEASED	
+TCGA-06-0644	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	12.3	0:LIVING	80.0
+TCGA-06-0645	Glioblastoma multiforme	IGC	glioblastoma	55.0	Female	5.7	1:DECEASED	
+TCGA-06-0646	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	5.7	1:DECEASED	80.0
+TCGA-06-0648	Glioblastoma multiforme	IGC	glioblastoma	77.0	Male	9.8	1:DECEASED	80.0
+TCGA-06-0649	Glioblastoma multiforme	IGC	glioblastoma	73.0	Female	2.1	1:DECEASED	
+TCGA-06-0650	Glioblastoma multiforme	IGC	glioblastoma	39.0	Female	23.6	1:DECEASED	
+TCGA-06-0686	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	9.4	0:LIVING	
+TCGA-06-0743	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	22.3	0:LIVING	100.0
+TCGA-06-0744	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	19.5	0:LIVING	80.0
+TCGA-06-0745	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	7.9	1:DECEASED	80.0
+TCGA-06-0747	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	2.7	1:DECEASED	80.0
+TCGA-06-0749	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	2.7	1:DECEASED	
+TCGA-06-0750	Glioblastoma multiforme	IGC	glioblastoma	43.0	Male	0.9	1:DECEASED	80.0
+TCGA-06-0875	Glioblastoma multiforme	IGC	glioblastoma	61.0	Female	9.2	0:LIVING	80.0
+TCGA-06-0876	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	8.9	0:LIVING	80.0
+TCGA-06-0877	Glioblastoma multiforme	IGC	glioblastoma	78.0	Male	6.7	0:LIVING	
+TCGA-06-0878	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	7.2	0:LIVING	80.0
+TCGA-06-0879	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	23.0	0:LIVING	80.0
+TCGA-06-0881	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	5.8	0:LIVING	80.0
+TCGA-06-0882	Glioblastoma multiforme	IGC	glioblastoma	30.0	Male	5.4	0:LIVING	60.0
+TCGA-06-0939	Glioblastoma multiforme	IGC	glioblastoma	79.0	Female	20.9	0:LIVING	80.0
+TCGA-06-1084	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	7.4	0:LIVING	80.0
+TCGA-06-1086	Glioblastoma multiforme	IGC	glioblastoma	42.0	Male	6.8	1:DECEASED	80.0
+TCGA-06-1087	Glioblastoma multiforme	IGC	glioblastoma	75.0	Male	4.0	1:DECEASED	60.0
+TCGA-06-1800	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	26.8	1:DECEASED	60.0
+TCGA-06-1801	Glioblastoma multiforme	IGC	glioblastoma	56.0	Female	8.6	0:LIVING	80.0
+TCGA-06-1802	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	7.9	0:LIVING	80.0
+TCGA-06-1804	Glioblastoma multiforme	IGC	glioblastoma	81.0	Female	13.6	1:DECEASED	
+TCGA-06-1805	Glioblastoma multiforme	IGC	glioblastoma	28.0	Female	4.2	0:LIVING	80.0
+TCGA-06-1806	Glioblastoma multiforme	IGC	glioblastoma	47.0	Male	15.3	1:DECEASED	90.0
+TCGA-06-2557	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	1.1	1:DECEASED	40.0
+TCGA-06-2558	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	12.5	1:DECEASED	60.0
+TCGA-06-2559	Glioblastoma multiforme	IGC	glioblastoma	83.0	Male	4.9	1:DECEASED	60.0
+TCGA-06-2561	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	9.3	0:LIVING	80.0
+TCGA-06-2562	Glioblastoma multiforme	IGC	glioblastoma	81.0	Male	2.8	0:LIVING	80.0
+TCGA-06-2563	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	8.5	0:LIVING	80.0
+TCGA-06-2564	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	5.9	0:LIVING	100.0
+TCGA-06-2565	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	6.8	0:LIVING	100.0
+TCGA-06-2566	Glioblastoma multiforme	IGC	glioblastoma	23.0	Female	6.0	1:DECEASED	80.0
+TCGA-06-2567	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	4.4	1:DECEASED	80.0
+TCGA-06-2569	Glioblastoma multiforme	IGC	glioblastoma	24.0	Female	0.4	0:LIVING	80.0
+TCGA-06-2570	Glioblastoma multiforme	IGC	glioblastoma	21.0	Female	9.4	0:LIVING	100.0
+TCGA-06-5408	Glioblastoma multiforme	IGC	glioblastoma	54.0	Female	11.7	1:DECEASED	80.0
+TCGA-06-5410	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	3.5	1:DECEASED	60.0
+TCGA-06-5411	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	8.3	1:DECEASED	80.0
+TCGA-06-5412	Glioblastoma multiforme	IGC	glioblastoma	78.0	Female	4.5	1:DECEASED	80.0
+TCGA-06-5413	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	8.8	0:LIVING	60.0
+TCGA-06-5414	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	9.0	0:LIVING	80.0
+TCGA-06-5415	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	8.5	0:LIVING	100.0
+TCGA-06-5416	Glioblastoma multiforme	IGC	glioblastoma	23.0	Female	6.7	0:LIVING	80.0
+TCGA-06-5417	Glioblastoma multiforme	IGC	glioblastoma	45.0	Female	5.1	0:LIVING	80.0
+TCGA-06-5418	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	2.7	1:DECEASED	60.0
+TCGA-06-5856	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	3.7	1:DECEASED	
+TCGA-06-5858	Glioblastoma multiforme	IGC	glioblastoma	45.0	Female	6.1	0:LIVING	100.0
+TCGA-06-5859	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	4.6	0:LIVING	40.0
+TCGA-06-6388	Glioblastoma multiforme	IGC	glioblastoma	64.0	Female	5.2	1:DECEASED	80.0
+TCGA-06-6389	Glioblastoma multiforme	IGC	glioblastoma	49.0	Female	7.8	0:LIVING	100.0
+TCGA-06-6390	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	5.4	1:DECEASED	80.0
+TCGA-06-6391	Glioblastoma multiforme	IGC	glioblastoma	44.0	Female	1.5	1:DECEASED	
+TCGA-06-6693	Glioblastoma multiforme	IGC	glioblastoma	64.0	Female	120.5	1:DECEASED	
+TCGA-06-6694	Glioblastoma multiforme	IGC	glioblastoma	76.0	Female	7.4	1:DECEASED	
+TCGA-06-6695	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	8.3	0:LIVING	40.0
+TCGA-06-6697	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	12.8	0:LIVING	80.0
+TCGA-06-6698	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	4.8	0:LIVING	
+TCGA-06-6699	Glioblastoma multiforme	IGC	glioblastoma	58.0	Female	1.5	0:LIVING	
+TCGA-06-6700	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	4.8	0:LIVING	100.0
+TCGA-06-6701	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	5.0	0:LIVING	
+TCGA-06-A5U0	Glioblastoma multiforme	IGC	glioblastoma	21.0	Female	4.7	0:LIVING	90.0
+TCGA-06-A5U1	Glioblastoma multiforme	IGC	glioblastoma	78.0	Female	1.9	1:DECEASED	
+TCGA-06-A6S0	Glioblastoma multiforme	IGC	glioblastoma	79.0	Male	3.1	1:DECEASED	
+TCGA-06-A6S1	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	2.6	1:DECEASED	60.0
+TCGA-06-A7TK	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	5.4	0:LIVING	70.0
+TCGA-06-A7TL	Glioblastoma multiforme	IGC						
+TCGA-08-0244	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	22.7	1:DECEASED	80.0
+TCGA-08-0245	Glioblastoma multiforme	IGC	glioblastoma	31.0	Female	37.8	1:DECEASED	80.0
+TCGA-08-0246	Glioblastoma multiforme	IGC	glioblastoma	57.0	Female	4.2	1:DECEASED	80.0
+TCGA-08-0344	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	115.8	1:DECEASED	80.0
+TCGA-08-0345	Glioblastoma multiforme	IGC	glioblastoma	71.0	Female	1.7	1:DECEASED	60.0
+TCGA-08-0346	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	8.4	1:DECEASED	80.0
+TCGA-08-0347	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	25.7	1:DECEASED	100.0
+TCGA-08-0348	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	12.2	1:DECEASED	80.0
+TCGA-08-0349	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	9.8	1:DECEASED	
+TCGA-08-0350	Glioblastoma multiforme	IGC	glioblastoma	32.0	Male	29.2	1:DECEASED	80.0
+TCGA-08-0351	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	65.3	1:DECEASED	80.0
+TCGA-08-0352	Glioblastoma multiforme	IGC	glioblastoma	79.0	Male	1.3	1:DECEASED	
+TCGA-08-0353	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	8.4	1:DECEASED	80.0
+TCGA-08-0354	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	17.9	1:DECEASED	60.0
+TCGA-08-0355	Glioblastoma multiforme	IGC	glioblastoma	30.0	Female	24.5	1:DECEASED	100.0
+TCGA-08-0356	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	31.1	1:DECEASED	80.0
+TCGA-08-0357	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	37.6	1:DECEASED	80.0
+TCGA-08-0358	Glioblastoma multiforme	IGC	glioblastoma	50.0	Male	22.3	1:DECEASED	80.0
+TCGA-08-0359	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	3.4	1:DECEASED	
+TCGA-08-0360	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	15.4	1:DECEASED	80.0
+TCGA-08-0373	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	4.4	1:DECEASED	
+TCGA-08-0375	Glioblastoma multiforme	IGC	glioblastoma	51.0	Female	12.2	1:DECEASED	100.0
+TCGA-08-0380	Glioblastoma multiforme	IGC	glioblastoma	74.0	Female	14.9	1:DECEASED	80.0
+TCGA-08-0385	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	2.7	1:DECEASED	60.0
+TCGA-08-0386	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	18.0	1:DECEASED	80.0
+TCGA-08-0389	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	15.3	1:DECEASED	80.0
+TCGA-08-0390	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	14.0	1:DECEASED	60.0
+TCGA-08-0392	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	0.7	1:DECEASED	
+TCGA-08-0509	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	12.6	1:DECEASED	60.0
+TCGA-08-0510	Glioblastoma multiforme	IGC	glioblastoma	75.0	Male	4.3	1:DECEASED	80.0
+TCGA-08-0511	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	7.7	1:DECEASED	80.0
+TCGA-08-0512	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	42.1	1:DECEASED	100.0
+TCGA-08-0514	Glioblastoma multiforme	IGC	glioblastoma	69.0	Female	11.1	1:DECEASED	40.0
+TCGA-08-0516	Glioblastoma multiforme	IGC	glioblastoma	14.0	Male	19.6	1:DECEASED	
+TCGA-08-0517	Glioblastoma multiforme	IGC	glioblastoma	34.0	Female	58.6	1:DECEASED	80.0
+TCGA-08-0518	Glioblastoma multiforme	IGC	glioblastoma	60.0	Female	19.3	1:DECEASED	80.0
+TCGA-08-0520	Glioblastoma multiforme	IGC	glioblastoma	70.0	Male	10.7	1:DECEASED	
+TCGA-08-0521	Glioblastoma multiforme	IGC	glioblastoma	17.0	Male	4.8	1:DECEASED	60.0
+TCGA-08-0522	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	20.9	1:DECEASED	80.0
+TCGA-08-0524	Glioblastoma multiforme	IGC	glioblastoma	17.0	Female	7.3	1:DECEASED	80.0
+TCGA-08-0525	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	16.0	1:DECEASED	80.0
+TCGA-08-0529	Glioblastoma multiforme	IGC	glioblastoma	56.0	Female	18.4	1:DECEASED	80.0
+TCGA-08-0531	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	7.6	1:DECEASED	80.0
+TCGA-12-0615	Glioblastoma multiforme	IGC	glioblastoma	78.0	Female	15.3	1:DECEASED	60.0
+TCGA-12-0616	Glioblastoma multiforme	IGC	glioblastoma	36.0	Female	14.7	1:DECEASED	100.0
+TCGA-12-0618	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	13.0	1:DECEASED	60.0
+TCGA-12-0619	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	34.9	1:DECEASED	80.0
+TCGA-12-0620	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	10.4	1:DECEASED	100.0
+TCGA-12-0653	Glioblastoma multiforme	IGC						
+TCGA-12-0654	Glioblastoma multiforme	IGC	glioblastoma	48.0	Female	7.6	1:DECEASED	
+TCGA-12-0656	Glioblastoma multiforme	IGC	glioblastoma	48.0	Female	94.7	1:DECEASED	80.0
+TCGA-12-0657	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	0.1	1:DECEASED	
+TCGA-12-0662	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	38.1	1:DECEASED	80.0
+TCGA-12-0670	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	26.0	1:DECEASED	100.0
+TCGA-12-0688	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	26.6	1:DECEASED	100.0
+TCGA-12-0691	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	12.1	1:DECEASED	100.0
+TCGA-12-0692	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	3.6	1:DECEASED	60.0
+TCGA-12-0703	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	20.4	1:DECEASED	80.0
+TCGA-12-0707	Glioblastoma multiforme	IGC	glioblastoma	55.0	Male	28.4	1:DECEASED	
+TCGA-12-0769	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	15.0	1:DECEASED	100.0
+TCGA-12-0772	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	53.8	1:DECEASED	80.0
+TCGA-12-0773	Glioblastoma multiforme	IGC	glioblastoma	24.0	Male	43.2	1:DECEASED	100.0
+TCGA-12-0775	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	7.6	1:DECEASED	60.0
+TCGA-12-0776	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	9.7	1:DECEASED	80.0
+TCGA-12-0778	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	14.9	1:DECEASED	80.0
+TCGA-12-0780	Glioblastoma multiforme	IGC	glioblastoma	51.0	Female	14.9	1:DECEASED	80.0
+TCGA-12-0818	Glioblastoma multiforme	IGC	glioblastoma	45.0	Female	91.7	1:DECEASED	
+TCGA-12-0819	Glioblastoma multiforme	IGC	glioblastoma	49.0	Female	24.8	1:DECEASED	60.0
+TCGA-12-0820	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	18.5	1:DECEASED	100.0
+TCGA-12-0821	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	10.6	1:DECEASED	60.0
+TCGA-12-0822	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	23.5	1:DECEASED	80.0
+TCGA-12-0826	Glioblastoma multiforme	IGC	glioblastoma	38.0	Female	27.8	1:DECEASED	
+TCGA-12-0827	Glioblastoma multiforme	IGC	glioblastoma	38.0	Female	38.7	1:DECEASED	100.0
+TCGA-12-0828	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	8.9	1:DECEASED	60.0
+TCGA-12-0829	Glioblastoma multiforme	IGC	glioblastoma	75.0	Male	20.6	1:DECEASED	80.0
+TCGA-12-1088	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	127.5	1:DECEASED	80.0
+TCGA-12-1089	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	5.8	1:DECEASED	
+TCGA-12-1090	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	7.6	1:DECEASED	60.0
+TCGA-12-1091	Glioblastoma multiforme	IGC	glioblastoma	10.0	Female	33.2	1:DECEASED	80.0
+TCGA-12-1092	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	21.7	1:DECEASED	80.0
+TCGA-12-1093	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	16.0	1:DECEASED	80.0
+TCGA-12-1094	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	12.2	1:DECEASED	100.0
+TCGA-12-1095	Glioblastoma multiforme	IGC	glioblastoma	65.0	Female	15.8	1:DECEASED	100.0
+TCGA-12-1096	Glioblastoma multiforme	IGC	glioblastoma	55.0	Male	9.1	1:DECEASED	80.0
+TCGA-12-1097	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	14.5	1:DECEASED	100.0
+TCGA-12-1098	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	4.0	1:DECEASED	60.0
+TCGA-12-1099	Glioblastoma multiforme	IGC	glioblastoma	68.0	Female	4.1	1:DECEASED	80.0
+TCGA-12-1597	Glioblastoma multiforme	IGC	glioblastoma	62.0	Female	22.2	1:DECEASED	80.0
+TCGA-12-1598	Glioblastoma multiforme	IGC	glioblastoma	75.0	Female	15.6	1:DECEASED	
+TCGA-12-1599	Glioblastoma multiforme	IGC	glioblastoma	47.0	Female	25.7	1:DECEASED	80.0
+TCGA-12-1600	Glioblastoma multiforme	IGC	glioblastoma	86.0	Male	14.7	1:DECEASED	80.0
+TCGA-12-1601	Glioblastoma multiforme	IGC						
+TCGA-12-1602	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	6.8	1:DECEASED	60.0
+TCGA-12-3644	Glioblastoma multiforme	IGC	glioblastoma	47.0	Female	59.7	1:DECEASED	60.0
+TCGA-12-3646	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	44.0	1:DECEASED	80.0
+TCGA-12-3648	Glioblastoma multiforme	IGC	glioblastoma	61.0	Female	26.9	1:DECEASED	80.0
+TCGA-12-3649	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	15.2	1:DECEASED	80.0
+TCGA-12-3650	Glioblastoma multiforme	IGC	glioblastoma	46.0	Male	10.9	1:DECEASED	80.0
+TCGA-12-3651	Glioblastoma multiforme	IGC	glioblastoma	77.0	Male	12.7	1:DECEASED	80.0
+TCGA-12-3652	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	34.9	1:DECEASED	80.0
+TCGA-12-3653	Glioblastoma multiforme	IGC	glioblastoma	34.0	Female	14.5	1:DECEASED	80.0
+TCGA-12-5295	Glioblastoma multiforme	IGC	glioblastoma	60.0	Female	14.9	1:DECEASED	
+TCGA-12-5299	Glioblastoma multiforme	IGC	glioblastoma	56.0	Female	3.2	1:DECEASED	80.0
+TCGA-12-5301	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	2.0	1:DECEASED	80.0
+TCGA-14-0736	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	15.1	1:DECEASED	100.0
+TCGA-14-0740	Glioblastoma multiforme	IGC	glioblastoma	70.0	Male	12.0	1:DECEASED	60.0
+TCGA-14-0781	Glioblastoma multiforme	IGC	glioblastoma	49.0	Male	1.0	1:DECEASED	
+TCGA-14-0783	Glioblastoma multiforme	IGC	glioblastoma	36.0	Female	6.2	1:DECEASED	80.0
+TCGA-14-0786	Glioblastoma multiforme	IGC	glioblastoma	50.0	Female	23.0	1:DECEASED	80.0
+TCGA-14-0787	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	2.2	1:DECEASED	60.0
+TCGA-14-0789	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	11.2	1:DECEASED	40.0
+TCGA-14-0790	Glioblastoma multiforme	IGC	glioblastoma	64.0	Female	13.8	1:DECEASED	60.0
+TCGA-14-0812	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	3.3	1:DECEASED	40.0
+TCGA-14-0813	Glioblastoma multiforme	IGC	glioblastoma	78.0	Male	1.3	1:DECEASED	60.0
+TCGA-14-0817	Glioblastoma multiforme	IGC	glioblastoma	69.0	Female	5.4	1:DECEASED	60.0
+TCGA-14-0862	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	2.9	1:DECEASED	40.0
+TCGA-14-0865	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	16.5	1:DECEASED	60.0
+TCGA-14-0866	Glioblastoma multiforme	IGC	glioblastoma	55.0	Male	26.3	1:DECEASED	80.0
+TCGA-14-0867	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	2.0	1:DECEASED	60.0
+TCGA-14-0871	Glioblastoma multiforme	IGC	glioblastoma	74.0	Female	28.9	1:DECEASED	60.0
+TCGA-14-1034	Glioblastoma multiforme	IGC	glioblastoma	60.0	Female	15.9	1:DECEASED	60.0
+TCGA-14-1037	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	19.3	1:DECEASED	60.0
+TCGA-14-1043	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	0.8	1:DECEASED	40.0
+TCGA-14-1395	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	1.4	1:DECEASED	80.0
+TCGA-14-1396	Glioblastoma multiforme	IGC	glioblastoma	78.0	Female	1.1	1:DECEASED	60.0
+TCGA-14-1401	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	3.7	1:DECEASED	80.0
+TCGA-14-1402	Glioblastoma multiforme	IGC	glioblastoma	58.0	Female	32.0	1:DECEASED	80.0
+TCGA-14-1450	Glioblastoma multiforme	IGC	glioblastoma	57.0	Female	58.7	0:LIVING	80.0
+TCGA-14-1451	Glioblastoma multiforme	IGC	glioblastoma	39.0	Male	23.1	1:DECEASED	80.0
+TCGA-14-1452	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	7.1	1:DECEASED	80.0
+TCGA-14-1453	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	1.1	1:DECEASED	60.0
+TCGA-14-1454	Glioblastoma multiforme	IGC	glioblastoma	54.0	Female	30.2	1:DECEASED	60.0
+TCGA-14-1455	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	0.9	1:DECEASED	
+TCGA-14-1456	Glioblastoma multiforme	IGC	glioblastoma	23.0	Male	40.9	0:LIVING	80.0
+TCGA-14-1458	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	6.7	1:DECEASED	80.0
+TCGA-14-1459	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	12.4	1:DECEASED	100.0
+TCGA-14-1794	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	1.0	1:DECEASED	
+TCGA-14-1795	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	2.0	1:DECEASED	60.0
+TCGA-14-1821	Glioblastoma multiforme	IGC	glioblastoma	31.0	Male	17.8	1:DECEASED	80.0
+TCGA-14-1823	Glioblastoma multiforme	IGC	glioblastoma	58.0	Female	17.8	1:DECEASED	80.0
+TCGA-14-1825	Glioblastoma multiforme	IGC	glioblastoma	70.0	Male	7.6	1:DECEASED	80.0
+TCGA-14-1827	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	5.9	1:DECEASED	100.0
+TCGA-14-1829	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	7.2	0:LIVING	60.0
+TCGA-14-2554	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	17.5	1:DECEASED	60.0
+TCGA-14-2555	Glioblastoma multiforme	IGC	glioblastoma	44.0	Female	8.0	0:LIVING	80.0
+TCGA-14-3476	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	0.4	1:DECEASED	
+TCGA-14-3477	Glioblastoma multiforme	IGC	glioblastoma	38.0	Female	3.8	0:LIVING	80.0
+TCGA-14-4157	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	3.4	0:LIVING	60.0
+TCGA-15-0742	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	13.8	1:DECEASED	80.0
+TCGA-15-1444	Glioblastoma multiforme	IGC	glioblastoma	21.0	Male	50.5	1:DECEASED	
+TCGA-15-1446	Glioblastoma multiforme	IGC	glioblastoma	55.0	Male	19.1	0:LIVING	80.0
+TCGA-15-1447	Glioblastoma multiforme	IGC	glioblastoma	36.0	Female	53.2	0:LIVING	80.0
+TCGA-15-1449	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	13.3	1:DECEASED	60.0
+TCGA-16-0846	Glioblastoma multiforme	IGC	glioblastoma	85.0	Male	3.9	1:DECEASED	
+TCGA-16-0848	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	17.6	1:DECEASED	
+TCGA-16-0849	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	26.1	0:LIVING	
+TCGA-16-0850	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	16.4	1:DECEASED	
+TCGA-16-0861	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	4.3		
+TCGA-16-1045	Glioblastoma multiforme	IGC	glioblastoma	49.0	Female	29.0	1:DECEASED	
+TCGA-16-1047	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	4.6	1:DECEASED	
+TCGA-16-1048	Glioblastoma multiforme	IGC						
+TCGA-16-1055	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	10.3	1:DECEASED	
+TCGA-16-1056	Glioblastoma multiforme	IGC	glioblastoma	55.0	Male	14.0	1:DECEASED	
+TCGA-16-1060	Glioblastoma multiforme	IGC	glioblastoma	70.0	Female	9.1	1:DECEASED	
+TCGA-16-1062	Glioblastoma multiforme	IGC	glioblastoma	57.0	Female	21.2	1:DECEASED	
+TCGA-16-1063	Glioblastoma multiforme	IGC	glioblastoma	72.0	Male	14.0	1:DECEASED	
+TCGA-16-1460	Glioblastoma multiforme	IGC	glioblastoma	36.0	Female	6.4	0:LIVING	
+TCGA-19-0955	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	11.8	0:LIVING	
+TCGA-19-0957	Glioblastoma multiforme	IGC	glioblastoma	48.0	Female	21.9	1:DECEASED	
+TCGA-19-0960	Glioblastoma multiforme	IGC	glioblastoma	83.0	Female	8.6	0:LIVING	60.0
+TCGA-19-0962	Glioblastoma multiforme	IGC	glioblastoma	77.0	Female	0.7	1:DECEASED	40.0
+TCGA-19-0963	Glioblastoma multiforme	IGC	glioblastoma	61.0	Male	14.3	1:DECEASED	
+TCGA-19-0964	Glioblastoma multiforme	IGC	glioblastoma	70.0	Male	3.4	0:LIVING	60.0
+TCGA-19-1385	Glioblastoma multiforme	IGC	glioblastoma	69.0	Male	10.7	1:DECEASED	
+TCGA-19-1386	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	9.1	1:DECEASED	80.0
+TCGA-19-1387	Glioblastoma multiforme	IGC	glioblastoma	81.0	Male	5.9	0:LIVING	60.0
+TCGA-19-1388	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	12.9	1:DECEASED	
+TCGA-19-1389	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	4.6	1:DECEASED	80.0
+TCGA-19-1390	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	25.4	1:DECEASED	60.0
+TCGA-19-1392	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	3.6	1:DECEASED	60.0
+TCGA-19-1786	Glioblastoma multiforme	IGC	glioblastoma	64.0	Female	7.2	0:LIVING	40.0
+TCGA-19-1787	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	12.6	1:DECEASED	80.0
+TCGA-19-1788	Glioblastoma multiforme	IGC	glioblastoma	39.0	Male	3.7	1:DECEASED	60.0
+TCGA-19-1789	Glioblastoma multiforme	IGC	glioblastoma	69.0	Female	3.3	1:DECEASED	60.0
+TCGA-19-1790	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	5.1	1:DECEASED	60.0
+TCGA-19-1791	Glioblastoma multiforme	IGC	glioblastoma	82.0	Female	0.1	0:LIVING	
+TCGA-19-2619	Glioblastoma multiforme	IGC	glioblastoma	55.0	Female	9.7	0:LIVING	40.0
+TCGA-19-2620	Glioblastoma multiforme	IGC	glioblastoma	70.0	Male	4.9	1:DECEASED	40.0
+TCGA-19-2621	Glioblastoma multiforme	IGC	glioblastoma	83.0	Male	1.1	1:DECEASED	
+TCGA-19-2623	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	7.5	0:LIVING	80.0
+TCGA-19-2624	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	0.2	1:DECEASED	
+TCGA-19-2625	Glioblastoma multiforme	IGC	glioblastoma	76.0	Female	4.1	1:DECEASED	
+TCGA-19-2629	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	24.2	1:DECEASED	
+TCGA-19-2631	Glioblastoma multiforme	IGC	glioblastoma	74.0	Female	7.0	1:DECEASED	60.0
+TCGA-19-4065	Glioblastoma multiforme	IGC	glioblastoma	36.0	Male	7.0	0:LIVING	
+TCGA-19-4068	Glioblastoma multiforme	IGC	glioblastoma	68.0	Female	4.5	0:LIVING	80.0
+TCGA-19-5947	Glioblastoma multiforme	IGC	glioblastoma	47.0	Female	6.6	1:DECEASED	40.0
+TCGA-19-5950	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	11.3	0:LIVING	100.0
+TCGA-19-5951	Glioblastoma multiforme	IGC	glioblastoma	76.0	Female	8.0	1:DECEASED	80.0
+TCGA-19-5952	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	18.9	1:DECEASED	60.0
+TCGA-19-5953	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	4.7	1:DECEASED	
+TCGA-19-5954	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	8.0	0:LIVING	60.0
+TCGA-19-5955	Glioblastoma multiforme	IGC	glioblastoma	83.0	Male	1.8	1:DECEASED	
+TCGA-19-5956	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	6.5	0:LIVING	80.0
+TCGA-19-5958	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	5.4	0:LIVING	80.0
+TCGA-19-5959	Glioblastoma multiforme	IGC	glioblastoma	77.0	Female	5.3	0:LIVING	80.0
+TCGA-19-5960	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	5.4	0:LIVING	80.0
+TCGA-19-A60I	Glioblastoma multiforme	IGC	glioblastoma	39.0	Male	6.8	0:LIVING	
+TCGA-19-A6J4	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	4.0	1:DECEASED	
+TCGA-19-A6J5	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	16.6	0:LIVING	100.0
+TCGA-26-1438	Glioblastoma multiforme	IGC	glioblastoma	36.0	Male	10.0	0:LIVING	100.0
+TCGA-26-1439	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	13.9	1:DECEASED	
+TCGA-26-1440	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	9.7	0:LIVING	80.0
+TCGA-26-1442	Glioblastoma multiforme	IGC	glioblastoma	43.0	Male	31.3	0:LIVING	80.0
+TCGA-26-1443	Glioblastoma multiforme	IGC	glioblastoma	60.0	Female	7.1	0:LIVING	60.0
+TCGA-26-1799	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	9.4	1:DECEASED	60.0
+TCGA-26-5132	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	9.4	0:LIVING	60.0
+TCGA-26-5133	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	14.9	0:LIVING	80.0
+TCGA-26-5134	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	5.5	0:LIVING	60.0
+TCGA-26-5135	Glioblastoma multiforme	IGC	glioblastoma	72.0	Female	8.9	1:DECEASED	
+TCGA-26-5136	Glioblastoma multiforme	IGC	glioblastoma	78.0	Female	1.2	0:LIVING	
+TCGA-26-5139	Glioblastoma multiforme	IGC	glioblastoma	65.0	Female	1.6	0:LIVING	60.0
+TCGA-26-6173	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	7.9	0:LIVING	80.0
+TCGA-26-6174	Glioblastoma multiforme	IGC	glioblastoma	65.0	Female	2.3	0:LIVING	80.0
+TCGA-26-A7UX	Glioblastoma multiforme	IGC	glioblastoma	47.0	Male	8.5	0:LIVING	
+TCGA-27-1830	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	5.1	1:DECEASED	80.0
+TCGA-27-1831	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	16.6	1:DECEASED	80.0
+TCGA-27-1832	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	9.9	1:DECEASED	100.0
+TCGA-27-1833	Glioblastoma multiforme	IGC	glioblastoma	67.0	Female	24.2	1:DECEASED	80.0
+TCGA-27-1834	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	40.5	1:DECEASED	80.0
+TCGA-27-1835	Glioblastoma multiforme	IGC	glioblastoma	53.0	Female	21.3	1:DECEASED	80.0
+TCGA-27-1836	Glioblastoma multiforme	IGC	glioblastoma	33.0	Female	30.0	1:DECEASED	80.0
+TCGA-27-1837	Glioblastoma multiforme	IGC	glioblastoma	36.0	Male	14.0	1:DECEASED	80.0
+TCGA-27-1838	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	11.5	1:DECEASED	80.0
+TCGA-27-2518	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	24.7	1:DECEASED	80.0
+TCGA-27-2519	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	10.4	0:LIVING	80.0
+TCGA-27-2521	Glioblastoma multiforme	IGC	glioblastoma	34.0	Male	10.4	0:LIVING	80.0
+TCGA-27-2523	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	16.1	1:DECEASED	80.0
+TCGA-27-2524	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	7.6	1:DECEASED	80.0
+TCGA-27-2526	Glioblastoma multiforme	IGC	glioblastoma	79.0	Female	2.9	1:DECEASED	40.0
+TCGA-27-2527	Glioblastoma multiforme	IGC	glioblastoma	81.0	Male	14.4	1:DECEASED	80.0
+TCGA-27-2528	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	15.8	1:DECEASED	80.0
+TCGA-28-1745	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	11.3	0:LIVING	60.0
+TCGA-28-1746	Glioblastoma multiforme	IGC	glioblastoma	77.0	Female	0.2	0:LIVING	80.0
+TCGA-28-1747	Glioblastoma multiforme	IGC	glioblastoma	44.0	Male	2.5	1:DECEASED	
+TCGA-28-1749	Glioblastoma multiforme	IGC	glioblastoma	73.0	Male	9.2	0:LIVING	80.0
+TCGA-28-1750	Glioblastoma multiforme	IGC	glioblastoma	40.0	Female	8.3	0:LIVING	60.0
+TCGA-28-1751	Glioblastoma multiforme	IGC	glioblastoma	61.0	Female	7.6	0:LIVING	80.0
+TCGA-28-1752	Glioblastoma multiforme	IGC	glioblastoma	42.0	Female	8.5	0:LIVING	80.0
+TCGA-28-1753	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	1.2	0:LIVING	
+TCGA-28-1755	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	1.5	1:DECEASED	60.0
+TCGA-28-1756	Glioblastoma multiforme	IGC	glioblastoma	78.0	Male	2.8	0:LIVING	80.0
+TCGA-28-1757	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	0.1	0:LIVING	80.0
+TCGA-28-1760	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	4.7	0:LIVING	
+TCGA-28-2499	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	14.5	0:LIVING	
+TCGA-28-2501	Glioblastoma multiforme	IGC						
+TCGA-28-2502	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	0.7	0:LIVING	20.0
+TCGA-28-2506	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	6.7	0:LIVING	80.0
+TCGA-28-2509	Glioblastoma multiforme	IGC	glioblastoma	77.0	Female	4.8	0:LIVING	80.0
+TCGA-28-2510	Glioblastoma multiforme	IGC						
+TCGA-28-2512	Glioblastoma multiforme	IGC	glioblastoma	37.0	Male	11.3	1:DECEASED	90.0
+TCGA-28-2513	Glioblastoma multiforme	IGC	glioblastoma	69.0	Female	7.3	0:LIVING	80.0
+TCGA-28-2514	Glioblastoma multiforme	IGC	glioblastoma	45.0	Male	5.3	0:LIVING	60.0
+TCGA-28-5204	Glioblastoma multiforme	IGC	glioblastoma	72.0	Male	14.9	1:DECEASED	80.0
+TCGA-28-5207	Glioblastoma multiforme	IGC	glioblastoma	71.0	Male	11.3	1:DECEASED	70.0
+TCGA-28-5208	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	15.6	0:LIVING	70.0
+TCGA-28-5209	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	2.5	0:LIVING	
+TCGA-28-5211	Glioblastoma multiforme	IGC	glioblastoma	42.0	Male	11.8	0:LIVING	100.0
+TCGA-28-5213	Glioblastoma multiforme	IGC	glioblastoma	72.0	Male	9.8	0:LIVING	80.0
+TCGA-28-5214	Glioblastoma multiforme	IGC	glioblastoma	53.0	Male	14.2	0:LIVING	70.0
+TCGA-28-5215	Glioblastoma multiforme	IGC	glioblastoma	62.0	Female	11.0	1:DECEASED	90.0
+TCGA-28-5216	Glioblastoma multiforme	IGC	glioblastoma	52.0	Male	13.6	0:LIVING	80.0
+TCGA-28-5218	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	5.2	1:DECEASED	
+TCGA-28-5219	Glioblastoma multiforme	IGC	glioblastoma	47.0	Female	8.5	0:LIVING	70.0
+TCGA-28-5220	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	10.5	0:LIVING	90.0
+TCGA-28-6450	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	5.4	1:DECEASED	
+TCGA-32-1970	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	15.4	1:DECEASED	
+TCGA-32-1973	Glioblastoma multiforme	IGC	glioblastoma	21.0	Male	21.1	1:DECEASED	
+TCGA-32-1976	Glioblastoma multiforme	IGC	glioblastoma	65.0	Male	0.5	1:DECEASED	60.0
+TCGA-32-1977	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	0.1	0:LIVING	
+TCGA-32-1978	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	15.8	1:DECEASED	
+TCGA-32-1979	Glioblastoma multiforme	IGC	glioblastoma	69.0	Female	19.5	1:DECEASED	
+TCGA-32-1980	Glioblastoma multiforme	IGC	glioblastoma	72.0	Male	1.2	1:DECEASED	
+TCGA-32-1982	Glioblastoma multiforme	IGC	glioblastoma	76.0	Female	4.7	1:DECEASED	80.0
+TCGA-32-1986	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	12.7	1:DECEASED	20.0
+TCGA-32-1987	Glioblastoma multiforme	IGC	glioblastoma	49.0	Female	14.9	1:DECEASED	
+TCGA-32-1991	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	16.9	1:DECEASED	
+TCGA-32-2491	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	12.2	1:DECEASED	
+TCGA-32-2494	Glioblastoma multiforme	IGC	glioblastoma	58.0	Female	20.8	1:DECEASED	
+TCGA-32-2495	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	15.0	1:DECEASED	
+TCGA-32-2498	Glioblastoma multiforme	IGC						
+TCGA-32-2615	Glioblastoma multiforme	IGC	glioblastoma	62.0	Male	15.9	1:DECEASED	80.0
+TCGA-32-2616	Glioblastoma multiforme	IGC	glioblastoma	48.0	Female	7.4	1:DECEASED	
+TCGA-32-2632	Glioblastoma multiforme	IGC	glioblastoma	80.0	Male	8.8	1:DECEASED	
+TCGA-32-2634	Glioblastoma multiforme	IGC	glioblastoma	82.0	Male	8.9	0:LIVING	
+TCGA-32-2638	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	7.4	0:LIVING	
+TCGA-32-4208	Glioblastoma multiforme	IGC	glioblastoma	25.0	Male	13.1	0:LIVING	
+TCGA-32-4209	Glioblastoma multiforme	IGC	glioblastoma	40.0	Male	11.1	0:LIVING	
+TCGA-32-4210	Glioblastoma multiforme	IGC	glioblastoma	73.0	Male	3.7	1:DECEASED	
+TCGA-32-4211	Glioblastoma multiforme	IGC	glioblastoma	56.0	Male	12.6	1:DECEASED	
+TCGA-32-4213	Glioblastoma multiforme	IGC	glioblastoma	47.0	Female	11.7	0:LIVING	
+TCGA-32-4719	Glioblastoma multiforme	IGC	glioblastoma	73.0	Male	10.8	1:DECEASED	
+TCGA-32-5222	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	5.4	0:LIVING	
+TCGA-41-2571	Glioblastoma multiforme	IGC	glioblastoma	89.0	Male	0.9	1:DECEASED	60.0
+TCGA-41-2572	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	13.3	1:DECEASED	
+TCGA-41-2573	Glioblastoma multiforme	IGC	glioblastoma	59.0	Male	8.9	0:LIVING	60.0
+TCGA-41-2575	Glioblastoma multiforme	IGC	glioblastoma	75.0	Male	9.5	1:DECEASED	60.0
+TCGA-41-3392	Glioblastoma multiforme	IGC	glioblastoma	88.0	Male	1.0	1:DECEASED	
+TCGA-41-3393	Glioblastoma multiforme	IGC	glioblastoma	81.0	Female	4.4	1:DECEASED	
+TCGA-41-3915	Glioblastoma multiforme	IGC	glioblastoma	48.0	Male	6.0	0:LIVING	
+TCGA-41-4097	Glioblastoma multiforme	IGC	glioblastoma	63.0	Female	0.2	1:DECEASED	
+TCGA-41-5651	Glioblastoma multiforme	IGC	glioblastoma	59.0	Female	11.5	0:LIVING	
+TCGA-41-6646	Glioblastoma multiforme	IGC	glioblastoma	73.0	Female	7.8	0:LIVING	
+TCGA-4W-AA9R	Glioblastoma multiforme	NCH						
+TCGA-4W-AA9S	Glioblastoma multiforme	NCH	glioblastoma	69.0	Male	4.1	0:LIVING	
+TCGA-4W-AA9T	Glioblastoma multiforme	NCH	glioblastoma	54.0	Female	14.8	0:LIVING	70.0
+TCGA-74-6573	Glioblastoma multiforme	IGC	glioblastoma	67.0	Male	3.4	1:DECEASED	100.0
+TCGA-74-6575	Glioblastoma multiforme	IGC	glioblastoma	73.0	Female	17.5	0:LIVING	90.0
+TCGA-74-6577	Glioblastoma multiforme	IGC	glioblastoma	51.0	Male	4.3	0:LIVING	90.0
+TCGA-74-6578	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	14.3	0:LIVING	100.0
+TCGA-74-6581	Glioblastoma multiforme	IGC	glioblastoma	77.0	Male	8.2	0:LIVING	100.0
+TCGA-74-6584	Glioblastoma multiforme	IGC	glioblastoma	55.0	Female	7.5	0:LIVING	80.0
+TCGA-76-4925	Glioblastoma multiforme	IGC	glioblastoma	76.0	Male	4.8	1:DECEASED	100.0
+TCGA-76-4926	Glioblastoma multiforme	IGC	glioblastoma	68.0	Male	4.5	1:DECEASED	80.0
+TCGA-76-4927	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	17.6	1:DECEASED	80.0
+TCGA-76-4928	Glioblastoma multiforme	IGC	glioblastoma	85.0	Female	3.1	1:DECEASED	80.0
+TCGA-76-4929	Glioblastoma multiforme	IGC	glioblastoma	76.0	Female	3.6	1:DECEASED	80.0
+TCGA-76-4931	Glioblastoma multiforme	IGC	glioblastoma	70.0	Female	9.2	1:DECEASED	80.0
+TCGA-76-4932	Glioblastoma multiforme	IGC	glioblastoma	50.0	Female	47.9	1:DECEASED	80.0
+TCGA-76-4934	Glioblastoma multiforme	IGC	glioblastoma	66.0	Female	2.5	1:DECEASED	80.0
+TCGA-76-4935	Glioblastoma multiforme	IGC	glioblastoma	52.0	Female	10.8	0:LIVING	80.0
+TCGA-76-6191	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	16.7	1:DECEASED	80.0
+TCGA-76-6192	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	3.3	1:DECEASED	80.0
+TCGA-76-6193	Glioblastoma multiforme	IGC	glioblastoma	78.0	Male	2.7	1:DECEASED	60.0
+TCGA-76-6280	Glioblastoma multiforme	IGC	glioblastoma	57.0	Male	11.4	1:DECEASED	80.0
+TCGA-76-6282	Glioblastoma multiforme	IGC	glioblastoma	63.0	Male	17.1	1:DECEASED	80.0
+TCGA-76-6283	Glioblastoma multiforme	IGC						
+TCGA-76-6285	Glioblastoma multiforme	IGC	glioblastoma	64.0	Female	8.3	1:DECEASED	80.0
+TCGA-76-6286	Glioblastoma multiforme	IGC	glioblastoma	60.0	Male	21.0	1:DECEASED	80.0
+TCGA-76-6656	Glioblastoma multiforme	IGC	glioblastoma	66.0	Male	4.8	1:DECEASED	60.0
+TCGA-76-6657	Glioblastoma multiforme	IGC	glioblastoma	74.0	Male	5.0	1:DECEASED	80.0
+TCGA-76-6660	Glioblastoma multiforme	IGC						
+TCGA-76-6661	Glioblastoma multiforme	IGC	glioblastoma	54.0	Male	0.2	0:LIVING	60.0
+TCGA-76-6662	Glioblastoma multiforme	IGC	glioblastoma	58.0	Male	9.3	0:LIVING	80.0
+TCGA-76-6663	Glioblastoma multiforme	IGC	glioblastoma	44.0	Female	7.7	0:LIVING	80.0
+TCGA-76-6664	Glioblastoma multiforme	IGC	glioblastoma	49.0	Female	7.8	0:LIVING	80.0
+TCGA-81-5910	Glioblastoma multiforme	IGC	glioblastoma	64.0	Male	1.6	1:DECEASED	40.0
+TCGA-81-5911	Glioblastoma multiforme	IGC	glioblastoma	33.0	Male	17.7	0:LIVING	
+TCGA-87-5896	Glioblastoma multiforme	IGC	glioblastoma	50.0	Female	0.1	0:LIVING	
+TCGA-OX-A56R	Glioblastoma multiforme	NCH	glioblastoma	68.0	Male	5.9	1:DECEASED	
+TCGA-RR-A6KA	Glioblastoma multiforme	NCH	glioblastoma	72.0	Female	6.3	1:DECEASED	
+TCGA-RR-A6KB	Glioblastoma multiforme	NCH						
+TCGA-RR-A6KC	Glioblastoma multiforme	NCH	glioblastoma	55.0	Male	20.5	1:DECEASED	
